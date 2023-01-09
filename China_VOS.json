@@ -1,0 +1,4192 @@
+{
+    "config": {
+        "terminology": {
+            "item": "item_name",
+            "items": "",
+            "link": "link_name",
+            "links": "",
+            "link_strength": "link strength name",
+            "total_link_strength": ""
+        },
+        "templates": {
+            "item_description": "<div class='description_heading'>item_name</div><div class='description_label'>{label}</div><div class='description_text'>id: {id}, label: {label}</div>",
+            "link_description": "<div class='description_heading'>link_name</div>"
+        }
+    },
+    "network": {
+        "items": [
+            {
+                "id": "AAT",
+                "label": null,
+                "x": -1423.0413818359375,
+                "y": 754.0109252929688,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "AKU",
+                "label": null,
+                "x": -781.9843139648438,
+                "y": 1385.2540283203125,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 22.53521156311035
+                }
+            },
+            {
+                "id": "BAV",
+                "label": null,
+                "x": 580.1200561523438,
+                "y": 1161.5474853515625,
+                "cluster": 6,
+                "scores": {
+                    "viz_size": 22.53521156311035
+                }
+            },
+            {
+                "id": "BHY",
+                "label": null,
+                "x": -668.7734985351562,
+                "y": -1089.17578125,
+                "cluster": 7,
+                "scores": {
+                    "viz_size": 26.338027954101562
+                }
+            },
+            {
+                "id": "BPX",
+                "label": null,
+                "x": 1606.895263671875,
+                "y": -148.1122589111328,
+                "cluster": 11,
+                "scores": {
+                    "viz_size": 22.53521156311035
+                }
+            },
+            {
+                "id": "BSD",
+                "label": null,
+                "x": 1282.379638671875,
+                "y": -959.2980346679688,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "CAN",
+                "label": null,
+                "x": 382.1612854003906,
+                "y": 107.07408905029297,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 160.7042236328125
+                }
+            },
+            {
+                "id": "CGD",
+                "label": null,
+                "x": -1142.7183837890625,
+                "y": -786.19140625,
+                "cluster": 7,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "CGO",
+                "label": null,
+                "x": 369.49188232421875,
+                "y": 416.4511413574219,
+                "cluster": 22,
+                "scores": {
+                    "viz_size": 69.43661499023438
+                }
+            },
+            {
+                "id": "CGQ",
+                "label": null,
+                "x": -789.9964599609375,
+                "y": 499.2077331542969,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 42.81690216064453
+                }
+            },
+            {
+                "id": "CKG",
+                "label": null,
+                "x": -55.256858825683594,
+                "y": -578.1451416015625,
+                "cluster": 15,
+                "scores": {
+                    "viz_size": 116.33802795410156
+                }
+            },
+            {
+                "id": "CSX",
+                "label": null,
+                "x": -144.04483032226562,
+                "y": -297.23114013671875,
+                "cluster": 12,
+                "scores": {
+                    "viz_size": 97.32394409179688
+                }
+            },
+            {
+                "id": "CTU",
+                "label": null,
+                "x": 443.5185241699219,
+                "y": -310.8074951171875,
+                "cluster": 11,
+                "scores": {
+                    "viz_size": 117.60562896728516
+                }
+            },
+            {
+                "id": "CZX",
+                "label": null,
+                "x": -989.646240234375,
+                "y": 2.6445810794830322,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 32.676055908203125
+                }
+            },
+            {
+                "id": "DDG",
+                "label": null,
+                "x": -1573.7491455078125,
+                "y": -452.27069091796875,
+                "cluster": 8,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "DIG",
+                "label": null,
+                "x": 1419.261474609375,
+                "y": -711.3110961914062,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 22.53521156311035
+                }
+            },
+            {
+                "id": "DLC",
+                "label": null,
+                "x": -530.1094360351562,
+                "y": 422.097900390625,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 77.04225158691406
+                }
+            },
+            {
+                "id": "DLU",
+                "label": null,
+                "x": 613.2495727539062,
+                "y": -1301.262939453125,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 25.070423126220703
+                }
+            },
+            {
+                "id": "DNH",
+                "label": null,
+                "x": -318.91741943359375,
+                "y": 1050.5072021484375,
+                "cluster": 9,
+                "scores": {
+                    "viz_size": 30.140846252441406
+                }
+            },
+            {
+                "id": "DOY",
+                "label": null,
+                "x": -355.6107177734375,
+                "y": 1287.27978515625,
+                "cluster": 6,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "DYG",
+                "label": null,
+                "x": 718.7415771484375,
+                "y": -233.23504638671875,
+                "cluster": 10,
+                "scores": {
+                    "viz_size": 56.760562896728516
+                }
+            },
+            {
+                "id": "ENH",
+                "label": null,
+                "x": -474.13372802734375,
+                "y": -1578.1431884765625,
+                "cluster": 16,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "FOC",
+                "label": null,
+                "x": -341.357421875,
+                "y": -56.663970947265625,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 77.04225158691406
+                }
+            },
+            {
+                "id": "GYS",
+                "label": null,
+                "x": -976.8789672851562,
+                "y": -1309.6395263671875,
+                "cluster": 15,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "HAK",
+                "label": null,
+                "x": -39.165523529052734,
+                "y": -861.39794921875,
+                "cluster": 12,
+                "scores": {
+                    "viz_size": 79.57746124267578
+                }
+            },
+            {
+                "id": "HET",
+                "label": null,
+                "x": 42.50912094116211,
+                "y": 1002.635498046875,
+                "cluster": 20,
+                "scores": {
+                    "viz_size": 30.140846252441406
+                }
+            },
+            {
+                "id": "HFE",
+                "label": null,
+                "x": 772.308837890625,
+                "y": -477.16168212890625,
+                "cluster": 17,
+                "scores": {
+                    "viz_size": 54.2253532409668
+                }
+            },
+            {
+                "id": "HGH",
+                "label": null,
+                "x": -509.95953369140625,
+                "y": -204.18052673339844,
+                "cluster": 22,
+                "scores": {
+                    "viz_size": 88.4507064819336
+                }
+            },
+            {
+                "id": "HKG",
+                "label": null,
+                "x": 240.0606689453125,
+                "y": -642.5263061523438,
+                "cluster": 8,
+                "scores": {
+                    "viz_size": 98.591552734375
+                }
+            },
+            {
+                "id": "HLD",
+                "label": null,
+                "x": 69.14508056640625,
+                "y": 1613.6136474609375,
+                "cluster": 20,
+                "scores": {
+                    "viz_size": 22.53521156311035
+                }
+            },
+            {
+                "id": "HRB",
+                "label": null,
+                "x": -964.7518920898438,
+                "y": -327.4440612792969,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 52.95774459838867
+                }
+            },
+            {
+                "id": "HSN",
+                "label": null,
+                "x": 1022.9824829101562,
+                "y": 339.412841796875,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 32.676055908203125
+                }
+            },
+            {
+                "id": "HYN",
+                "label": null,
+                "x": 333.1290283203125,
+                "y": 993.9498291015625,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 25.070423126220703
+                }
+            },
+            {
+                "id": "HZG",
+                "label": null,
+                "x": -1589.340087890625,
+                "y": -116.54693603515625,
+                "cluster": 9,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "INC",
+                "label": null,
+                "x": -117.1474380493164,
+                "y": 780.7724609375,
+                "cluster": 9,
+                "scores": {
+                    "viz_size": 40.28169250488281
+                }
+            },
+            {
+                "id": "IQM",
+                "label": null,
+                "x": -1633.5069580078125,
+                "y": 159.73162841796875,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "JDZ",
+                "label": null,
+                "x": -1454.37744140625,
+                "y": -751.7366333007812,
+                "cluster": 7,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "JHG",
+                "label": null,
+                "x": 215.19444274902344,
+                "y": -1595.556396484375,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 25.070423126220703
+                }
+            },
+            {
+                "id": "JIL",
+                "label": null,
+                "x": -721.6626586914062,
+                "y": 783.1701049804688,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 25.070423126220703
+                }
+            },
+            {
+                "id": "JJN",
+                "label": null,
+                "x": 356.4610900878906,
+                "y": 771.033203125,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 32.676055908203125
+                }
+            },
+            {
+                "id": "JMU",
+                "label": null,
+                "x": 641.2481079101562,
+                "y": 1486.3076171875,
+                "cluster": 6,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "JNZ",
+                "label": null,
+                "x": -915.467041015625,
+                "y": -975.6970825195312,
+                "cluster": 11,
+                "scores": {
+                    "viz_size": 22.53521156311035
+                }
+            },
+            {
+                "id": "KCA",
+                "label": null,
+                "x": -1035.0428466796875,
+                "y": 1249.31884765625,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 22.53521156311035
+                }
+            },
+            {
+                "id": "KHG",
+                "label": null,
+                "x": -1269.8232421875,
+                "y": 1031.619873046875,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "KHN",
+                "label": null,
+                "x": -298.57305908203125,
+                "y": -817.1433715820312,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 58.028167724609375
+                }
+            },
+            {
+                "id": "KMG",
+                "label": null,
+                "x": 521.8700561523438,
+                "y": -602.2615966796875,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 121.40845489501953
+                }
+            },
+            {
+                "id": "KOW",
+                "label": null,
+                "x": -1201.232177734375,
+                "y": -509.8567810058594,
+                "cluster": 7,
+                "scores": {
+                    "viz_size": 22.53521156311035
+                }
+            },
+            {
+                "id": "KRL",
+                "label": null,
+                "x": -1541.0189208984375,
+                "y": 508.9554443359375,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 22.53521156311035
+                }
+            },
+            {
+                "id": "KWE",
+                "label": null,
+                "x": 185.27890014648438,
+                "y": -918.0724487304688,
+                "cluster": 12,
+                "scores": {
+                    "viz_size": 68.16901397705078
+                }
+            },
+            {
+                "id": "KWL",
+                "label": null,
+                "x": 479.8724365234375,
+                "y": -876.5508422851562,
+                "cluster": 10,
+                "scores": {
+                    "viz_size": 64.36619567871094
+                }
+            },
+            {
+                "id": "LHW",
+                "label": null,
+                "x": 83.61775207519531,
+                "y": 740.7609252929688,
+                "cluster": 9,
+                "scores": {
+                    "viz_size": 60.56338119506836
+                }
+            },
+            {
+                "id": "LJG",
+                "label": null,
+                "x": -84.7355728149414,
+                "y": -1593.23583984375,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 25.070423126220703
+                }
+            },
+            {
+                "id": "LLF",
+                "label": null,
+                "x": -1238.962890625,
+                "y": -1085.765869140625,
+                "cluster": 7,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "LNJ",
+                "label": null,
+                "x": 1073.2965087890625,
+                "y": -1130.5447998046875,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "LUM",
+                "label": null,
+                "x": 506.8056945800781,
+                "y": -1532.7406005859375,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "LXA",
+                "label": null,
+                "x": 1331.900390625,
+                "y": -223.07151794433594,
+                "cluster": 11,
+                "scores": {
+                    "viz_size": 30.140846252441406
+                }
+            },
+            {
+                "id": "LYA",
+                "label": null,
+                "x": 1120.0111083984375,
+                "y": 24.79251480102539,
+                "cluster": 19,
+                "scores": {
+                    "viz_size": 32.676055908203125
+                }
+            },
+            {
+                "id": "LYG",
+                "label": null,
+                "x": 1372.9376220703125,
+                "y": 793.7591552734375,
+                "cluster": 18,
+                "scores": {
+                    "viz_size": 25.070423126220703
+                }
+            },
+            {
+                "id": "LYI",
+                "label": null,
+                "x": 698.5919189453125,
+                "y": 868.4188842773438,
+                "cluster": 14,
+                "scores": {
+                    "viz_size": 27.605632781982422
+                }
+            },
+            {
+                "id": "LZH",
+                "label": null,
+                "x": 1105.87060546875,
+                "y": 816.9485473632812,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 25.070423126220703
+                }
+            },
+            {
+                "id": "LZO",
+                "label": null,
+                "x": 1377.645751953125,
+                "y": 151.43890380859375,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 25.070423126220703
+                }
+            },
+            {
+                "id": "MDG",
+                "label": null,
+                "x": -919.2400512695312,
+                "y": 964.9784545898438,
+                "cluster": 24,
+                "scores": {
+                    "viz_size": 22.53521156311035
+                }
+            },
+            {
+                "id": "MIG",
+                "label": null,
+                "x": 914.2781982421875,
+                "y": 1058.3238525390625,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 22.53521156311035
+                }
+            },
+            {
+                "id": "MXZ",
+                "label": null,
+                "x": 1524.34130859375,
+                "y": 503.1721496582031,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "NDG",
+                "label": null,
+                "x": -1301.1641845703125,
+                "y": -241.76194763183594,
+                "cluster": 8,
+                "scores": {
+                    "viz_size": 22.53521156311035
+                }
+            },
+            {
+                "id": "NGB",
+                "label": null,
+                "x": 648.3001098632812,
+                "y": 319.01788330078125,
+                "cluster": 13,
+                "scores": {
+                    "viz_size": 47.88732147216797
+                }
+            },
+            {
+                "id": "NKG",
+                "label": null,
+                "x": 155.57839965820312,
+                "y": -390.20709228515625,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 93.52112579345703
+                }
+            },
+            {
+                "id": "NNG",
+                "label": null,
+                "x": 775.78369140625,
+                "y": -759.5266723632812,
+                "cluster": 10,
+                "scores": {
+                    "viz_size": 50.42253494262695
+                }
+            },
+            {
+                "id": "NNY",
+                "label": null,
+                "x": 1613.0047607421875,
+                "y": 183.3084716796875,
+                "cluster": 19,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "NTG",
+                "label": null,
+                "x": -54.45123291015625,
+                "y": 1298.259521484375,
+                "cluster": 21,
+                "scores": {
+                    "viz_size": 22.53521156311035
+                }
+            },
+            {
+                "id": "PEK",
+                "label": null,
+                "x": 33.34373474121094,
+                "y": 397.5180969238281,
+                "cluster": 6,
+                "scores": {
+                    "viz_size": 200
+                }
+            },
+            {
+                "id": "PVG",
+                "label": null,
+                "x": -755.209716796875,
+                "y": -152.600341796875,
+                "cluster": 8,
+                "scores": {
+                    "viz_size": 88.4507064819336
+                }
+            },
+            {
+                "id": "SHA",
+                "label": null,
+                "x": 743.3228759765625,
+                "y": -13.793852806091309,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 116.33802795410156
+                }
+            },
+            {
+                "id": "SHE",
+                "label": null,
+                "x": -826.3373413085938,
+                "y": 226.168701171875,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 71.97183227539062
+                }
+            },
+            {
+                "id": "SJW",
+                "label": null,
+                "x": 1065.9163818359375,
+                "y": -773.5919799804688,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 32.676055908203125
+                }
+            },
+            {
+                "id": "SWA",
+                "label": null,
+                "x": 1127.0230712890625,
+                "y": -495.9583740234375,
+                "cluster": 13,
+                "scores": {
+                    "viz_size": 47.88732147216797
+                }
+            },
+            {
+                "id": "SYM",
+                "label": null,
+                "x": 890.1451416015625,
+                "y": -1352.034912109375,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "SYX",
+                "label": null,
+                "x": -830.0115966796875,
+                "y": -672.4841918945312,
+                "cluster": 8,
+                "scores": {
+                    "viz_size": 40.28169250488281
+                }
+            },
+            {
+                "id": "SZX",
+                "label": null,
+                "x": -388.879150390625,
+                "y": -467.7564392089844,
+                "cluster": 7,
+                "scores": {
+                    "viz_size": 136.61972045898438
+                }
+            },
+            {
+                "id": "TAO",
+                "label": null,
+                "x": -336.8797607421875,
+                "y": 519.8958129882812,
+                "cluster": 14,
+                "scores": {
+                    "viz_size": 80.8450698852539
+                }
+            },
+            {
+                "id": "TCG",
+                "label": null,
+                "x": -550.0701904296875,
+                "y": 1533.58642578125,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "TEN",
+                "label": null,
+                "x": -690.6021118164062,
+                "y": -1413.83642578125,
+                "cluster": 15,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "TNA",
+                "label": null,
+                "x": -582.6237182617188,
+                "y": 138.226806640625,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 79.57746124267578
+                }
+            },
+            {
+                "id": "TSN",
+                "label": null,
+                "x": -681.0477905273438,
+                "y": -439.5027770996094,
+                "cluster": 10,
+                "scores": {
+                    "viz_size": 60.56338119506836
+                }
+            },
+            {
+                "id": "TXN",
+                "label": null,
+                "x": -395.033935546875,
+                "y": -1070.2042236328125,
+                "cluster": 17,
+                "scores": {
+                    "viz_size": 37.74647903442383
+                }
+            },
+            {
+                "id": "TYN",
+                "label": null,
+                "x": -82.17855072021484,
+                "y": -1118.634765625,
+                "cluster": 23,
+                "scores": {
+                    "viz_size": 42.81690216064453
+                }
+            },
+            {
+                "id": "URC",
+                "label": null,
+                "x": -435.2816162109375,
+                "y": 741.3225708007812,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 73.23943328857422
+                }
+            },
+            {
+                "id": "UYN",
+                "label": null,
+                "x": 1198.4688720703125,
+                "y": 1086.4627685546875,
+                "cluster": 9,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "WEF",
+                "label": null,
+                "x": 919.3165283203125,
+                "y": 1340.6510009765625,
+                "cluster": 14,
+                "scores": {
+                    "viz_size": 22.53521156311035
+                }
+            },
+            {
+                "id": "WEH",
+                "label": null,
+                "x": -1107.643310546875,
+                "y": 454.20550537109375,
+                "cluster": 6,
+                "scores": {
+                    "viz_size": 22.53521156311035
+                }
+            },
+            {
+                "id": "WNZ",
+                "label": null,
+                "x": -335.1717529296875,
+                "y": 184.76361083984375,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 75.77464294433594
+                }
+            },
+            {
+                "id": "WUH",
+                "label": null,
+                "x": -524.9076538085938,
+                "y": -710.6199340820312,
+                "cluster": 16,
+                "scores": {
+                    "viz_size": 73.23943328857422
+                }
+            },
+            {
+                "id": "WUS",
+                "label": null,
+                "x": 896.185302734375,
+                "y": 176.17137145996094,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 46.61971664428711
+                }
+            },
+            {
+                "id": "WXN",
+                "label": null,
+                "x": -269.3905029296875,
+                "y": -1351.8798828125,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "XFN",
+                "label": null,
+                "x": -1324.7725830078125,
+                "y": 297.3545227050781,
+                "cluster": 8,
+                "scores": {
+                    "viz_size": 22.53521156311035
+                }
+            },
+            {
+                "id": "XIL",
+                "label": null,
+                "x": -612.499755859375,
+                "y": 1111.376953125,
+                "cluster": 6,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "XIY",
+                "label": null,
+                "x": -120.87188720703125,
+                "y": 51.78474807739258,
+                "cluster": 9,
+                "scores": {
+                    "viz_size": 101.12676239013672
+                }
+            },
+            {
+                "id": "XMN",
+                "label": null,
+                "x": 115.99250793457031,
+                "y": -93.32921600341797,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 101.12676239013672
+                }
+            },
+            {
+                "id": "XNN",
+                "label": null,
+                "x": 606.3086547851562,
+                "y": 605.9598388671875,
+                "cluster": 11,
+                "scores": {
+                    "viz_size": 40.28169250488281
+                }
+            },
+            {
+                "id": "XUZ",
+                "label": null,
+                "x": 881.956298828125,
+                "y": 600.0175170898438,
+                "cluster": 18,
+                "scores": {
+                    "viz_size": 32.676055908203125
+                }
+            },
+            {
+                "id": "YBP",
+                "label": null,
+                "x": 1042.6654052734375,
+                "y": -225.78323364257812,
+                "cluster": 25,
+                "scores": {
+                    "viz_size": 32.676055908203125
+                }
+            },
+            {
+                "id": "YIH",
+                "label": null,
+                "x": 723.4712524414062,
+                "y": -1010.31640625,
+                "cluster": 16,
+                "scores": {
+                    "viz_size": 40.28169250488281
+                }
+            },
+            {
+                "id": "YIN",
+                "label": null,
+                "x": -231.75515747070312,
+                "y": 1614.60302734375,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "YIW",
+                "label": null,
+                "x": 1264.2406005859375,
+                "y": 494.556884765625,
+                "cluster": 13,
+                "scores": {
+                    "viz_size": 27.605632781982422
+                }
+            },
+            {
+                "id": "YNJ",
+                "label": null,
+                "x": -1094.0894775390625,
+                "y": 730.5338745117188,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 25.070423126220703
+                }
+            },
+            {
+                "id": "YNT",
+                "label": null,
+                "x": -1229.6663818359375,
+                "y": 43.578765869140625,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 37.74647903442383
+                }
+            },
+            {
+                "id": "YNZ",
+                "label": null,
+                "x": 265.3935852050781,
+                "y": 1277.47802734375,
+                "cluster": 21,
+                "scores": {
+                    "viz_size": 22.53521156311035
+                }
+            },
+            {
+                "id": "ZAT",
+                "label": null,
+                "x": 1497.248046875,
+                "y": -464.078857421875,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "ZGC",
+                "label": null,
+                "x": 369.0195617675781,
+                "y": 1569.9217529296875,
+                "cluster": 6,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "ZHA",
+                "label": null,
+                "x": 145.14794921875,
+                "y": -1346.5025634765625,
+                "cluster": 12,
+                "scores": {
+                    "viz_size": 32.676055908203125
+                }
+            },
+            {
+                "id": "ZUH",
+                "label": null,
+                "x": 372.84735107421875,
+                "y": -1143.484130859375,
+                "cluster": 10,
+                "scores": {
+                    "viz_size": 52.95774459838867
+                }
+            }
+        ],
+        "links": [
+            {
+                "source_id": "AAT",
+                "target_id": "URC",
+                "strength": 4464
+            },
+            {
+                "source_id": "AKU",
+                "target_id": "KCA",
+                "strength": 2016
+            },
+            {
+                "source_id": "AKU",
+                "target_id": "URC",
+                "strength": 2448
+            },
+            {
+                "source_id": "BAV",
+                "target_id": "PEK",
+                "strength": 24548
+            },
+            {
+                "source_id": "BAV",
+                "target_id": "SHA",
+                "strength": 1800
+            },
+            {
+                "source_id": "BHY",
+                "target_id": "CAN",
+                "strength": 2261
+            },
+            {
+                "source_id": "BHY",
+                "target_id": "CSX",
+                "strength": 1862
+            },
+            {
+                "source_id": "BHY",
+                "target_id": "HAK",
+                "strength": 1088
+            },
+            {
+                "source_id": "BHY",
+                "target_id": "SZX",
+                "strength": 13818
+            },
+            {
+                "source_id": "BPX",
+                "target_id": "CTU",
+                "strength": 6475
+            },
+            {
+                "source_id": "BPX",
+                "target_id": "LXA",
+                "strength": 1665
+            },
+            {
+                "source_id": "BSD",
+                "target_id": "KMG",
+                "strength": 9052
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "CGO",
+                "strength": 23532
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "CKG",
+                "strength": 46932
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "CSX",
+                "strength": 22889
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "CTU",
+                "strength": 64388
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "CZX",
+                "strength": 5272
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "DLC",
+                "strength": 27776
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "DYG",
+                "strength": 6750
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "FOC",
+                "strength": 39556
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "HAK",
+                "strength": 68756
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "HET",
+                "strength": 2484
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "HFE",
+                "strength": 9344
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "HGH",
+                "strength": 110208
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "HKG",
+                "strength": 29388
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "HYN",
+                "strength": 7130
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "INC",
+                "strength": 4144
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "JJN",
+                "strength": 8556
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "KHN",
+                "strength": 25172
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "KMG",
+                "strength": 49476
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "KWE",
+                "strength": 35464
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "KWL",
+                "strength": 52518
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "LHW",
+                "strength": 9672
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "LYA",
+                "strength": 1924
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "LYG",
+                "strength": 2261
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "LYI",
+                "strength": 8618
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "LZH",
+                "strength": 9176
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "LZO",
+                "strength": 6348
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "MIG",
+                "strength": 3588
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "MXZ",
+                "strength": 4389
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "NGB",
+                "strength": 22258
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "NKG",
+                "strength": 63116
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "NNG",
+                "strength": 31992
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "NNY",
+                "strength": 1924
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "NTG",
+                "strength": 1596
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "PEK",
+                "strength": 188394
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "PVG",
+                "strength": 213080
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "SHA",
+                "strength": 13609
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "SHE",
+                "strength": 12276
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "SJW",
+                "strength": 5256
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "SWA",
+                "strength": 29600
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "SYX",
+                "strength": 35876
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "TAO",
+                "strength": 18228
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "TNA",
+                "strength": 35464
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "TSN",
+                "strength": 16120
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "TXN",
+                "strength": 14308
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "TYN",
+                "strength": 22072
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "URC",
+                "strength": 12400
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "WNZ",
+                "strength": 54304
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "WUH",
+                "strength": 56458
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "WXN",
+                "strength": 3588
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "XIY",
+                "strength": 26748
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "XMN",
+                "strength": 45774
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "XNN",
+                "strength": 12276
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "XUZ",
+                "strength": 2261
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "YBP",
+                "strength": 6072
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "YIH",
+                "strength": 3848
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "YIW",
+                "strength": 9176
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "YNZ",
+                "strength": 1862
+            },
+            {
+                "source_id": "CAN",
+                "target_id": "ZHA",
+                "strength": 15934
+            },
+            {
+                "source_id": "CGD",
+                "target_id": "SZX",
+                "strength": 2448
+            },
+            {
+                "source_id": "CGO",
+                "target_id": "CKG",
+                "strength": 13320
+            },
+            {
+                "source_id": "CGO",
+                "target_id": "CTU",
+                "strength": 23752
+            },
+            {
+                "source_id": "CGO",
+                "target_id": "DLC",
+                "strength": 6844
+            },
+            {
+                "source_id": "CGO",
+                "target_id": "FOC",
+                "strength": 6020
+            },
+            {
+                "source_id": "CGO",
+                "target_id": "HAK",
+                "strength": 9176
+            },
+            {
+                "source_id": "CGO",
+                "target_id": "HGH",
+                "strength": 14976
+            },
+            {
+                "source_id": "CGO",
+                "target_id": "HKG",
+                "strength": 1184
+            },
+            {
+                "source_id": "CGO",
+                "target_id": "INC",
+                "strength": 832
+            },
+            {
+                "source_id": "CGO",
+                "target_id": "KMG",
+                "strength": 26108
+            },
+            {
+                "source_id": "CGO",
+                "target_id": "LHW",
+                "strength": 2484
+            },
+            {
+                "source_id": "CGO",
+                "target_id": "PEK",
+                "strength": 48812
+            },
+            {
+                "source_id": "CGO",
+                "target_id": "SHA",
+                "strength": 40936
+            },
+            {
+                "source_id": "CGO",
+                "target_id": "SHE",
+                "strength": 14452
+            },
+            {
+                "source_id": "CGO",
+                "target_id": "SZX",
+                "strength": 25172
+            },
+            {
+                "source_id": "CGO",
+                "target_id": "TAO",
+                "strength": 4896
+            },
+            {
+                "source_id": "CGO",
+                "target_id": "TNA",
+                "strength": 595
+            },
+            {
+                "source_id": "CGO",
+                "target_id": "URC",
+                "strength": 14452
+            },
+            {
+                "source_id": "CGO",
+                "target_id": "WUH",
+                "strength": 1190
+            },
+            {
+                "source_id": "CGO",
+                "target_id": "WUS",
+                "strength": 3588
+            },
+            {
+                "source_id": "CGO",
+                "target_id": "XMN",
+                "strength": 12500
+            },
+            {
+                "source_id": "CGQ",
+                "target_id": "CKG",
+                "strength": 3900
+            },
+            {
+                "source_id": "CGQ",
+                "target_id": "DLC",
+                "strength": 15006
+            },
+            {
+                "source_id": "CGQ",
+                "target_id": "FOC",
+                "strength": 4968
+            },
+            {
+                "source_id": "CGQ",
+                "target_id": "HGH",
+                "strength": 9768
+            },
+            {
+                "source_id": "CGQ",
+                "target_id": "NKG",
+                "strength": 14760
+            },
+            {
+                "source_id": "CGQ",
+                "target_id": "PEK",
+                "strength": 69012
+            },
+            {
+                "source_id": "CGQ",
+                "target_id": "PVG",
+                "strength": 15186
+            },
+            {
+                "source_id": "CGQ",
+                "target_id": "TAO",
+                "strength": 10912
+            },
+            {
+                "source_id": "CGQ",
+                "target_id": "TNA",
+                "strength": 6600
+            },
+            {
+                "source_id": "CGQ",
+                "target_id": "YNJ",
+                "strength": 9600
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "CSX",
+                "strength": 24660
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "CZX",
+                "strength": 700
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "DLC",
+                "strength": 5100
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "DYG",
+                "strength": 4968
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "GYS",
+                "strength": 3256
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "HAK",
+                "strength": 19444
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "HFE",
+                "strength": 5256
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "HGH",
+                "strength": 3588
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "HKG",
+                "strength": 4968
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "HRB",
+                "strength": 5400
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "KHN",
+                "strength": 6480
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "KMG",
+                "strength": 55034
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "KWE",
+                "strength": 9176
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "KWL",
+                "strength": 22198
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "LHW",
+                "strength": 4388
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "LXA",
+                "strength": 3330
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "NKG",
+                "strength": 7920
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "NNG",
+                "strength": 5488
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "PEK",
+                "strength": 54566
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "SHA",
+                "strength": 69192
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "SHE",
+                "strength": 7536
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "SJW",
+                "strength": 900
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "SYX",
+                "strength": 3864
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "SZX",
+                "strength": 39676
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "TAO",
+                "strength": 3864
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "TEN",
+                "strength": 896
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "TNA",
+                "strength": 5488
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "TYN",
+                "strength": 7160
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "URC",
+                "strength": 3536
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "WNZ",
+                "strength": 10166
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "WUH",
+                "strength": 3399
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "XIY",
+                "strength": 36016
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "XMN",
+                "strength": 1104
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "XUZ",
+                "strength": 1300
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "YIH",
+                "strength": 2800
+            },
+            {
+                "source_id": "CKG",
+                "target_id": "ZUH",
+                "strength": 3464
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "CTU",
+                "strength": 34614
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "DLC",
+                "strength": 2550
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "DYG",
+                "strength": 3724
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "FOC",
+                "strength": 20832
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "HAK",
+                "strength": 27932
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "HFE",
+                "strength": 2770
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "HGH",
+                "strength": 15536
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "HKG",
+                "strength": 3990
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "KMG",
+                "strength": 23612
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "KWE",
+                "strength": 11184
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "LHW",
+                "strength": 6804
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "NGB",
+                "strength": 17254
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "NKG",
+                "strength": 7356
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "PEK",
+                "strength": 50038
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "SHA",
+                "strength": 50412
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "SHE",
+                "strength": 2908
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "SWA",
+                "strength": 4144
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "SYX",
+                "strength": 5100
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "SZX",
+                "strength": 64822
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "TAO",
+                "strength": 30331
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "TNA",
+                "strength": 4148
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "TYN",
+                "strength": 4824
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "URC",
+                "strength": 12400
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "WNZ",
+                "strength": 7836
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "XIY",
+                "strength": 6552
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "XMN",
+                "strength": 17492
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "YNT",
+                "strength": 7800
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "ZHA",
+                "strength": 8246
+            },
+            {
+                "source_id": "CSX",
+                "target_id": "ZUH",
+                "strength": 14184
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "DLC",
+                "strength": 3750
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "DLU",
+                "strength": 2304
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "DYG",
+                "strength": 11216
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "HAK",
+                "strength": 8658
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "HFE",
+                "strength": 5236
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "HGH",
+                "strength": 24188
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "HKG",
+                "strength": 17730
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "INC",
+                "strength": 1088
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "JNZ",
+                "strength": 1168
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "KHN",
+                "strength": 10024
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "KMG",
+                "strength": 68187
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "KWE",
+                "strength": 16028
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "KWL",
+                "strength": 10990
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "LHW",
+                "strength": 26328
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "LXA",
+                "strength": 50610
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "LYA",
+                "strength": 3408
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "NKG",
+                "strength": 11156
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "NNG",
+                "strength": 5264
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "PEK",
+                "strength": 121168
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "PVG",
+                "strength": 11470
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "SHA",
+                "strength": 71907
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "SHE",
+                "strength": 150
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "SJW",
+                "strength": 2556
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "SZX",
+                "strength": 53672
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "TAO",
+                "strength": 16660
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "TNA",
+                "strength": 21472
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "TYN",
+                "strength": 4932
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "URC",
+                "strength": 23830
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "WNZ",
+                "strength": 8752
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "WUH",
+                "strength": 15906
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "XIY",
+                "strength": 33072
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "XMN",
+                "strength": 2484
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "XNN",
+                "strength": 1984
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "XUZ",
+                "strength": 2304
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "YIH",
+                "strength": 3607
+            },
+            {
+                "source_id": "CTU",
+                "target_id": "ZUH",
+                "strength": 2484
+            },
+            {
+                "source_id": "CZX",
+                "target_id": "DLC",
+                "strength": 4896
+            },
+            {
+                "source_id": "CZX",
+                "target_id": "PEK",
+                "strength": 4692
+            },
+            {
+                "source_id": "CZX",
+                "target_id": "SHE",
+                "strength": 3536
+            },
+            {
+                "source_id": "CZX",
+                "target_id": "SZX",
+                "strength": 8432
+            },
+            {
+                "source_id": "DDG",
+                "target_id": "PVG",
+                "strength": 3300
+            },
+            {
+                "source_id": "DIG",
+                "target_id": "KMG",
+                "strength": 29989
+            },
+            {
+                "source_id": "DIG",
+                "target_id": "LXA",
+                "strength": 1665
+            },
+            {
+                "source_id": "DLC",
+                "target_id": "HGH",
+                "strength": 29728
+            },
+            {
+                "source_id": "DLC",
+                "target_id": "HKG",
+                "strength": 4968
+            },
+            {
+                "source_id": "DLC",
+                "target_id": "HRB",
+                "strength": 40908
+            },
+            {
+                "source_id": "DLC",
+                "target_id": "JIL",
+                "strength": 1952
+            },
+            {
+                "source_id": "DLC",
+                "target_id": "LYA",
+                "strength": 3408
+            },
+            {
+                "source_id": "DLC",
+                "target_id": "NGB",
+                "strength": 2700
+            },
+            {
+                "source_id": "DLC",
+                "target_id": "NKG",
+                "strength": 7528
+            },
+            {
+                "source_id": "DLC",
+                "target_id": "PEK",
+                "strength": 92446
+            },
+            {
+                "source_id": "DLC",
+                "target_id": "PVG",
+                "strength": 66338
+            },
+            {
+                "source_id": "DLC",
+                "target_id": "SHE",
+                "strength": 17460
+            },
+            {
+                "source_id": "DLC",
+                "target_id": "SZX",
+                "strength": 6708
+            },
+            {
+                "source_id": "DLC",
+                "target_id": "TAO",
+                "strength": 37618
+            },
+            {
+                "source_id": "DLC",
+                "target_id": "TNA",
+                "strength": 8500
+            },
+            {
+                "source_id": "DLC",
+                "target_id": "TSN",
+                "strength": 9012
+            },
+            {
+                "source_id": "DLC",
+                "target_id": "WNZ",
+                "strength": 6600
+            },
+            {
+                "source_id": "DLC",
+                "target_id": "XIY",
+                "strength": 2600
+            },
+            {
+                "source_id": "DLC",
+                "target_id": "XMN",
+                "strength": 3588
+            },
+            {
+                "source_id": "DLU",
+                "target_id": "JHG",
+                "strength": 9782
+            },
+            {
+                "source_id": "DLU",
+                "target_id": "KMG",
+                "strength": 23798
+            },
+            {
+                "source_id": "DNH",
+                "target_id": "INC",
+                "strength": 9672
+            },
+            {
+                "source_id": "DNH",
+                "target_id": "LHW",
+                "strength": 20140
+            },
+            {
+                "source_id": "DNH",
+                "target_id": "PEK",
+                "strength": 9672
+            },
+            {
+                "source_id": "DNH",
+                "target_id": "URC",
+                "strength": 10860
+            },
+            {
+                "source_id": "DNH",
+                "target_id": "XIY",
+                "strength": 13716
+            },
+            {
+                "source_id": "DOY",
+                "target_id": "PEK",
+                "strength": 900
+            },
+            {
+                "source_id": "DYG",
+                "target_id": "HFE",
+                "strength": 1848
+            },
+            {
+                "source_id": "DYG",
+                "target_id": "HKG",
+                "strength": 2394
+            },
+            {
+                "source_id": "DYG",
+                "target_id": "KWL",
+                "strength": 2520
+            },
+            {
+                "source_id": "DYG",
+                "target_id": "NKG",
+                "strength": 1800
+            },
+            {
+                "source_id": "DYG",
+                "target_id": "PEK",
+                "strength": 11956
+            },
+            {
+                "source_id": "DYG",
+                "target_id": "PVG",
+                "strength": 9672
+            },
+            {
+                "source_id": "DYG",
+                "target_id": "SHA",
+                "strength": 1862
+            },
+            {
+                "source_id": "DYG",
+                "target_id": "SZX",
+                "strength": 2232
+            },
+            {
+                "source_id": "DYG",
+                "target_id": "TSN",
+                "strength": 3588
+            },
+            {
+                "source_id": "DYG",
+                "target_id": "XIY",
+                "strength": 8476
+            },
+            {
+                "source_id": "DYG",
+                "target_id": "XMN",
+                "strength": 2760
+            },
+            {
+                "source_id": "DYG",
+                "target_id": "ZUH",
+                "strength": 8864
+            },
+            {
+                "source_id": "ENH",
+                "target_id": "WUH",
+                "strength": 1984
+            },
+            {
+                "source_id": "FOC",
+                "target_id": "HAK",
+                "strength": 2208
+            },
+            {
+                "source_id": "FOC",
+                "target_id": "HGH",
+                "strength": 17400
+            },
+            {
+                "source_id": "FOC",
+                "target_id": "HKG",
+                "strength": 28278
+            },
+            {
+                "source_id": "FOC",
+                "target_id": "KHN",
+                "strength": 9462
+            },
+            {
+                "source_id": "FOC",
+                "target_id": "KMG",
+                "strength": 3796
+            },
+            {
+                "source_id": "FOC",
+                "target_id": "KWL",
+                "strength": 3588
+            },
+            {
+                "source_id": "FOC",
+                "target_id": "LHW",
+                "strength": 3588
+            },
+            {
+                "source_id": "FOC",
+                "target_id": "NGB",
+                "strength": 8772
+            },
+            {
+                "source_id": "FOC",
+                "target_id": "NKG",
+                "strength": 12938
+            },
+            {
+                "source_id": "FOC",
+                "target_id": "PEK",
+                "strength": 59932
+            },
+            {
+                "source_id": "FOC",
+                "target_id": "SHA",
+                "strength": 93596
+            },
+            {
+                "source_id": "FOC",
+                "target_id": "SYX",
+                "strength": 2208
+            },
+            {
+                "source_id": "FOC",
+                "target_id": "SZX",
+                "strength": 29408
+            },
+            {
+                "source_id": "FOC",
+                "target_id": "TAO",
+                "strength": 1550
+            },
+            {
+                "source_id": "FOC",
+                "target_id": "TNA",
+                "strength": 9553
+            },
+            {
+                "source_id": "FOC",
+                "target_id": "TXN",
+                "strength": 2484
+            },
+            {
+                "source_id": "FOC",
+                "target_id": "WUH",
+                "strength": 7452
+            },
+            {
+                "source_id": "FOC",
+                "target_id": "WUS",
+                "strength": 8556
+            },
+            {
+                "source_id": "FOC",
+                "target_id": "XIY",
+                "strength": 9000
+            },
+            {
+                "source_id": "FOC",
+                "target_id": "XMN",
+                "strength": 38151
+            },
+            {
+                "source_id": "HAK",
+                "target_id": "HFE",
+                "strength": 2618
+            },
+            {
+                "source_id": "HAK",
+                "target_id": "HKG",
+                "strength": 3653
+            },
+            {
+                "source_id": "HAK",
+                "target_id": "KHN",
+                "strength": 7564
+            },
+            {
+                "source_id": "HAK",
+                "target_id": "KMG",
+                "strength": 17966
+            },
+            {
+                "source_id": "HAK",
+                "target_id": "KWE",
+                "strength": 10048
+            },
+            {
+                "source_id": "HAK",
+                "target_id": "KWL",
+                "strength": 4068
+            },
+            {
+                "source_id": "HAK",
+                "target_id": "NNG",
+                "strength": 5192
+            },
+            {
+                "source_id": "HAK",
+                "target_id": "PEK",
+                "strength": 43396
+            },
+            {
+                "source_id": "HAK",
+                "target_id": "PVG",
+                "strength": 73300
+            },
+            {
+                "source_id": "HAK",
+                "target_id": "SWA",
+                "strength": 2664
+            },
+            {
+                "source_id": "HAK",
+                "target_id": "SZX",
+                "strength": 113806
+            },
+            {
+                "source_id": "HAK",
+                "target_id": "TSN",
+                "strength": 3864
+            },
+            {
+                "source_id": "HAK",
+                "target_id": "WNZ",
+                "strength": 13252
+            },
+            {
+                "source_id": "HAK",
+                "target_id": "WUH",
+                "strength": 17422
+            },
+            {
+                "source_id": "HAK",
+                "target_id": "XIY",
+                "strength": 7564
+            },
+            {
+                "source_id": "HAK",
+                "target_id": "XMN",
+                "strength": 14628
+            },
+            {
+                "source_id": "HAK",
+                "target_id": "ZHA",
+                "strength": 3456
+            },
+            {
+                "source_id": "HAK",
+                "target_id": "ZUH",
+                "strength": 5316
+            },
+            {
+                "source_id": "HET",
+                "target_id": "HLD",
+                "strength": 3864
+            },
+            {
+                "source_id": "HET",
+                "target_id": "PEK",
+                "strength": 55582
+            },
+            {
+                "source_id": "HET",
+                "target_id": "SHA",
+                "strength": 3784
+            },
+            {
+                "source_id": "HET",
+                "target_id": "SZX",
+                "strength": 2196
+            },
+            {
+                "source_id": "HFE",
+                "target_id": "HGH",
+                "strength": 2772
+            },
+            {
+                "source_id": "HFE",
+                "target_id": "HKG",
+                "strength": 2464
+            },
+            {
+                "source_id": "HFE",
+                "target_id": "KWL",
+                "strength": 2156
+            },
+            {
+                "source_id": "HFE",
+                "target_id": "PEK",
+                "strength": 22960
+            },
+            {
+                "source_id": "HFE",
+                "target_id": "SHA",
+                "strength": 22196
+            },
+            {
+                "source_id": "HFE",
+                "target_id": "SZX",
+                "strength": 12436
+            },
+            {
+                "source_id": "HFE",
+                "target_id": "TAO",
+                "strength": 2770
+            },
+            {
+                "source_id": "HFE",
+                "target_id": "TXN",
+                "strength": 1232
+            },
+            {
+                "source_id": "HFE",
+                "target_id": "XMN",
+                "strength": 8708
+            },
+            {
+                "source_id": "HGH",
+                "target_id": "HKG",
+                "strength": 26250
+            },
+            {
+                "source_id": "HGH",
+                "target_id": "HRB",
+                "strength": 3900
+            },
+            {
+                "source_id": "HGH",
+                "target_id": "KHN",
+                "strength": 5922
+            },
+            {
+                "source_id": "HGH",
+                "target_id": "KMG",
+                "strength": 3900
+            },
+            {
+                "source_id": "HGH",
+                "target_id": "KWE",
+                "strength": 9300
+            },
+            {
+                "source_id": "HGH",
+                "target_id": "KWL",
+                "strength": 28210
+            },
+            {
+                "source_id": "HGH",
+                "target_id": "LHW",
+                "strength": 4624
+            },
+            {
+                "source_id": "HGH",
+                "target_id": "PEK",
+                "strength": 109406
+            },
+            {
+                "source_id": "HGH",
+                "target_id": "SHE",
+                "strength": 22004
+            },
+            {
+                "source_id": "HGH",
+                "target_id": "SZX",
+                "strength": 76176
+            },
+            {
+                "source_id": "HGH",
+                "target_id": "TAO",
+                "strength": 27186
+            },
+            {
+                "source_id": "HGH",
+                "target_id": "TNA",
+                "strength": 13586
+            },
+            {
+                "source_id": "HGH",
+                "target_id": "TSN",
+                "strength": 6072
+            },
+            {
+                "source_id": "HGH",
+                "target_id": "TYN",
+                "strength": 3796
+            },
+            {
+                "source_id": "HGH",
+                "target_id": "WNZ",
+                "strength": 14568
+            },
+            {
+                "source_id": "HGH",
+                "target_id": "WUH",
+                "strength": 18414
+            },
+            {
+                "source_id": "HGH",
+                "target_id": "XIY",
+                "strength": 19216
+            },
+            {
+                "source_id": "HGH",
+                "target_id": "XMN",
+                "strength": 50622
+            },
+            {
+                "source_id": "HGH",
+                "target_id": "XNN",
+                "strength": 3224
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "KHN",
+                "strength": 2232
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "KMG",
+                "strength": 5688
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "KWE",
+                "strength": 2484
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "KWL",
+                "strength": 8996
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "LHW",
+                "strength": 1248
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "NGB",
+                "strength": 12516
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "NKG",
+                "strength": 18616
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "NNG",
+                "strength": 1330
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "PEK",
+                "strength": 114158
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "PVG",
+                "strength": 205263
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "SWA",
+                "strength": 3848
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "SYX",
+                "strength": 6792
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "TAO",
+                "strength": 14096
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "TNA",
+                "strength": 2232
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "TSN",
+                "strength": 4692
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "TXN",
+                "strength": 1232
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "WNZ",
+                "strength": 2196
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "WUH",
+                "strength": 4134
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "WUS",
+                "strength": 2484
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "XIY",
+                "strength": 1560
+            },
+            {
+                "source_id": "HKG",
+                "target_id": "XMN",
+                "strength": 22072
+            },
+            {
+                "source_id": "HLD",
+                "target_id": "PEK",
+                "strength": 11728
+            },
+            {
+                "source_id": "HRB",
+                "target_id": "NKG",
+                "strength": 7668
+            },
+            {
+                "source_id": "HRB",
+                "target_id": "PEK",
+                "strength": 106912
+            },
+            {
+                "source_id": "HRB",
+                "target_id": "PVG",
+                "strength": 47654
+            },
+            {
+                "source_id": "HRB",
+                "target_id": "SHE",
+                "strength": 32800
+            },
+            {
+                "source_id": "HRB",
+                "target_id": "SZX",
+                "strength": 8432
+            },
+            {
+                "source_id": "HRB",
+                "target_id": "TAO",
+                "strength": 13896
+            },
+            {
+                "source_id": "HRB",
+                "target_id": "TNA",
+                "strength": 8028
+            },
+            {
+                "source_id": "HRB",
+                "target_id": "WNZ",
+                "strength": 2448
+            },
+            {
+                "source_id": "HRB",
+                "target_id": "XIY",
+                "strength": 4392
+            },
+            {
+                "source_id": "HRB",
+                "target_id": "XMN",
+                "strength": 5984
+            },
+            {
+                "source_id": "HRB",
+                "target_id": "YNT",
+                "strength": 7800
+            },
+            {
+                "source_id": "HSN",
+                "target_id": "JJN",
+                "strength": 19596
+            },
+            {
+                "source_id": "HSN",
+                "target_id": "NKG",
+                "strength": 2600
+            },
+            {
+                "source_id": "HSN",
+                "target_id": "PEK",
+                "strength": 4968
+            },
+            {
+                "source_id": "HSN",
+                "target_id": "SHA",
+                "strength": 8556
+            },
+            {
+                "source_id": "HSN",
+                "target_id": "WUS",
+                "strength": 2484
+            },
+            {
+                "source_id": "HSN",
+                "target_id": "XMN",
+                "strength": 4692
+            },
+            {
+                "source_id": "HYN",
+                "target_id": "PEK",
+                "strength": 3536
+            },
+            {
+                "source_id": "HYN",
+                "target_id": "SZX",
+                "strength": 3536
+            },
+            {
+                "source_id": "HZG",
+                "target_id": "XIY",
+                "strength": 1984
+            },
+            {
+                "source_id": "INC",
+                "target_id": "NKG",
+                "strength": 3576
+            },
+            {
+                "source_id": "INC",
+                "target_id": "PEK",
+                "strength": 32292
+            },
+            {
+                "source_id": "INC",
+                "target_id": "TNA",
+                "strength": 1300
+            },
+            {
+                "source_id": "INC",
+                "target_id": "URC",
+                "strength": 4876
+            },
+            {
+                "source_id": "INC",
+                "target_id": "XIY",
+                "strength": 18368
+            },
+            {
+                "source_id": "IQM",
+                "target_id": "KRL",
+                "strength": 1296
+            },
+            {
+                "source_id": "JDZ",
+                "target_id": "SZX",
+                "strength": 900
+            },
+            {
+                "source_id": "JHG",
+                "target_id": "KMG",
+                "strength": 93758
+            },
+            {
+                "source_id": "JHG",
+                "target_id": "LJG",
+                "strength": 10220
+            },
+            {
+                "source_id": "JIL",
+                "target_id": "PEK",
+                "strength": 3240
+            },
+            {
+                "source_id": "JIL",
+                "target_id": "PVG",
+                "strength": 2700
+            },
+            {
+                "source_id": "JJN",
+                "target_id": "PEK",
+                "strength": 8556
+            },
+            {
+                "source_id": "JJN",
+                "target_id": "SHA",
+                "strength": 8556
+            },
+            {
+                "source_id": "JJN",
+                "target_id": "SZX",
+                "strength": 18352
+            },
+            {
+                "source_id": "JJN",
+                "target_id": "WNZ",
+                "strength": 9796
+            },
+            {
+                "source_id": "JMU",
+                "target_id": "PEK",
+                "strength": 4270
+            },
+            {
+                "source_id": "JNZ",
+                "target_id": "PVG",
+                "strength": 1300
+            },
+            {
+                "source_id": "KCA",
+                "target_id": "URC",
+                "strength": 2016
+            },
+            {
+                "source_id": "KHG",
+                "target_id": "URC",
+                "strength": 12400
+            },
+            {
+                "source_id": "KHN",
+                "target_id": "KMG",
+                "strength": 6200
+            },
+            {
+                "source_id": "KHN",
+                "target_id": "KWE",
+                "strength": 3400
+            },
+            {
+                "source_id": "KHN",
+                "target_id": "NKG",
+                "strength": 7000
+            },
+            {
+                "source_id": "KHN",
+                "target_id": "PEK",
+                "strength": 29784
+            },
+            {
+                "source_id": "KHN",
+                "target_id": "PVG",
+                "strength": 7688
+            },
+            {
+                "source_id": "KHN",
+                "target_id": "SHA",
+                "strength": 34348
+            },
+            {
+                "source_id": "KHN",
+                "target_id": "SZX",
+                "strength": 28716
+            },
+            {
+                "source_id": "KHN",
+                "target_id": "XIY",
+                "strength": 4420
+            },
+            {
+                "source_id": "KHN",
+                "target_id": "XMN",
+                "strength": 22542
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "KWE",
+                "strength": 34428
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "KWL",
+                "strength": 30910
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "LHW",
+                "strength": 2628
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "LJG",
+                "strength": 80444
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "LNJ",
+                "strength": 9052
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "LUM",
+                "strength": 14956
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "LYA",
+                "strength": 900
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "LZO",
+                "strength": 900
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "NKG",
+                "strength": 6424
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "NNG",
+                "strength": 6240
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "PEK",
+                "strength": 93448
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "SHA",
+                "strength": 47740
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "SWA",
+                "strength": 1300
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "SYM",
+                "strength": 9052
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "SZX",
+                "strength": 47818
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "TAO",
+                "strength": 11562
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "TNA",
+                "strength": 11246
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "TSN",
+                "strength": 5112
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "WNZ",
+                "strength": 9098
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "XIY",
+                "strength": 13424
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "XMN",
+                "strength": 12352
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "XNN",
+                "strength": 3168
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "YBP",
+                "strength": 8224
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "YIH",
+                "strength": 2628
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "ZAT",
+                "strength": 8304
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "ZHA",
+                "strength": 1300
+            },
+            {
+                "source_id": "KMG",
+                "target_id": "ZUH",
+                "strength": 7092
+            },
+            {
+                "source_id": "KOW",
+                "target_id": "PEK",
+                "strength": 900
+            },
+            {
+                "source_id": "KOW",
+                "target_id": "SZX",
+                "strength": 900
+            },
+            {
+                "source_id": "KRL",
+                "target_id": "URC",
+                "strength": 20452
+            },
+            {
+                "source_id": "KWE",
+                "target_id": "KWL",
+                "strength": 7176
+            },
+            {
+                "source_id": "KWE",
+                "target_id": "NKG",
+                "strength": 3168
+            },
+            {
+                "source_id": "KWE",
+                "target_id": "NNG",
+                "strength": 896
+            },
+            {
+                "source_id": "KWE",
+                "target_id": "PEK",
+                "strength": 41798
+            },
+            {
+                "source_id": "KWE",
+                "target_id": "SHA",
+                "strength": 47436
+            },
+            {
+                "source_id": "KWE",
+                "target_id": "SYX",
+                "strength": 3588
+            },
+            {
+                "source_id": "KWE",
+                "target_id": "SZX",
+                "strength": 29078
+            },
+            {
+                "source_id": "KWE",
+                "target_id": "WUH",
+                "strength": 9528
+            },
+            {
+                "source_id": "KWE",
+                "target_id": "XIY",
+                "strength": 3496
+            },
+            {
+                "source_id": "KWE",
+                "target_id": "ZHA",
+                "strength": 2304
+            },
+            {
+                "source_id": "KWE",
+                "target_id": "ZUH",
+                "strength": 5168
+            },
+            {
+                "source_id": "KWL",
+                "target_id": "NKG",
+                "strength": 7508
+            },
+            {
+                "source_id": "KWL",
+                "target_id": "PEK",
+                "strength": 21622
+            },
+            {
+                "source_id": "KWL",
+                "target_id": "SHA",
+                "strength": 49718
+            },
+            {
+                "source_id": "KWL",
+                "target_id": "SZX",
+                "strength": 37634
+            },
+            {
+                "source_id": "KWL",
+                "target_id": "TYN",
+                "strength": 3172
+            },
+            {
+                "source_id": "KWL",
+                "target_id": "XIY",
+                "strength": 35247
+            },
+            {
+                "source_id": "KWL",
+                "target_id": "XMN",
+                "strength": 19118
+            },
+            {
+                "source_id": "KWL",
+                "target_id": "ZUH",
+                "strength": 10600
+            },
+            {
+                "source_id": "LHW",
+                "target_id": "PEK",
+                "strength": 29016
+            },
+            {
+                "source_id": "LHW",
+                "target_id": "SHA",
+                "strength": 19344
+            },
+            {
+                "source_id": "LHW",
+                "target_id": "SHE",
+                "strength": 5036
+            },
+            {
+                "source_id": "LHW",
+                "target_id": "TNA",
+                "strength": 3536
+            },
+            {
+                "source_id": "LHW",
+                "target_id": "URC",
+                "strength": 29936
+            },
+            {
+                "source_id": "LHW",
+                "target_id": "WNZ",
+                "strength": 4128
+            },
+            {
+                "source_id": "LHW",
+                "target_id": "XIY",
+                "strength": 31724
+            },
+            {
+                "source_id": "LJG",
+                "target_id": "SZX",
+                "strength": 8432
+            },
+            {
+                "source_id": "LLF",
+                "target_id": "SZX",
+                "strength": 900
+            },
+            {
+                "source_id": "LXA",
+                "target_id": "XNN",
+                "strength": 6660
+            },
+            {
+                "source_id": "LYA",
+                "target_id": "NNY",
+                "strength": 1924
+            },
+            {
+                "source_id": "LYA",
+                "target_id": "PEK",
+                "strength": 3100
+            },
+            {
+                "source_id": "LYA",
+                "target_id": "SHA",
+                "strength": 900
+            },
+            {
+                "source_id": "LYG",
+                "target_id": "PEK",
+                "strength": 1800
+            },
+            {
+                "source_id": "LYG",
+                "target_id": "XUZ",
+                "strength": 2261
+            },
+            {
+                "source_id": "LYI",
+                "target_id": "SHA",
+                "strength": 900
+            },
+            {
+                "source_id": "LYI",
+                "target_id": "TAO",
+                "strength": 8618
+            },
+            {
+                "source_id": "LYI",
+                "target_id": "WEF",
+                "strength": 900
+            },
+            {
+                "source_id": "LZH",
+                "target_id": "PEK",
+                "strength": 3100
+            },
+            {
+                "source_id": "LZH",
+                "target_id": "SHA",
+                "strength": 3100
+            },
+            {
+                "source_id": "LZO",
+                "target_id": "SHA",
+                "strength": 900
+            },
+            {
+                "source_id": "MDG",
+                "target_id": "PEK",
+                "strength": 7564
+            },
+            {
+                "source_id": "MDG",
+                "target_id": "PVG",
+                "strength": 3900
+            },
+            {
+                "source_id": "MIG",
+                "target_id": "PEK",
+                "strength": 3588
+            },
+            {
+                "source_id": "NDG",
+                "target_id": "PEK",
+                "strength": 1300
+            },
+            {
+                "source_id": "NDG",
+                "target_id": "PVG",
+                "strength": 2700
+            },
+            {
+                "source_id": "NGB",
+                "target_id": "NKG",
+                "strength": 2440
+            },
+            {
+                "source_id": "NGB",
+                "target_id": "PEK",
+                "strength": 28228
+            },
+            {
+                "source_id": "NGB",
+                "target_id": "SHA",
+                "strength": 43110
+            },
+            {
+                "source_id": "NGB",
+                "target_id": "SWA",
+                "strength": 3848
+            },
+            {
+                "source_id": "NGB",
+                "target_id": "SZX",
+                "strength": 14694
+            },
+            {
+                "source_id": "NGB",
+                "target_id": "TAO",
+                "strength": 11990
+            },
+            {
+                "source_id": "NGB",
+                "target_id": "XMN",
+                "strength": 4692
+            },
+            {
+                "source_id": "NKG",
+                "target_id": "PEK",
+                "strength": 107408
+            },
+            {
+                "source_id": "NKG",
+                "target_id": "SHE",
+                "strength": 5868
+            },
+            {
+                "source_id": "NKG",
+                "target_id": "SJW",
+                "strength": 3588
+            },
+            {
+                "source_id": "NKG",
+                "target_id": "SWA",
+                "strength": 2700
+            },
+            {
+                "source_id": "NKG",
+                "target_id": "SZX",
+                "strength": 50096
+            },
+            {
+                "source_id": "NKG",
+                "target_id": "TAO",
+                "strength": 5510
+            },
+            {
+                "source_id": "NKG",
+                "target_id": "TSN",
+                "strength": 2208
+            },
+            {
+                "source_id": "NKG",
+                "target_id": "TYN",
+                "strength": 3796
+            },
+            {
+                "source_id": "NKG",
+                "target_id": "WNZ",
+                "strength": 1898
+            },
+            {
+                "source_id": "NKG",
+                "target_id": "WUH",
+                "strength": 5614
+            },
+            {
+                "source_id": "NKG",
+                "target_id": "XIY",
+                "strength": 7384
+            },
+            {
+                "source_id": "NKG",
+                "target_id": "XMN",
+                "strength": 29936
+            },
+            {
+                "source_id": "NKG",
+                "target_id": "YIH",
+                "strength": 2800
+            },
+            {
+                "source_id": "NNG",
+                "target_id": "PEK",
+                "strength": 16740
+            },
+            {
+                "source_id": "NNG",
+                "target_id": "PVG",
+                "strength": 9672
+            },
+            {
+                "source_id": "NNG",
+                "target_id": "SHA",
+                "strength": 9176
+            },
+            {
+                "source_id": "NNG",
+                "target_id": "SWA",
+                "strength": 888
+            },
+            {
+                "source_id": "NNG",
+                "target_id": "SZX",
+                "strength": 16988
+            },
+            {
+                "source_id": "NNG",
+                "target_id": "ZUH",
+                "strength": 2516
+            },
+            {
+                "source_id": "NTG",
+                "target_id": "PEK",
+                "strength": 8556
+            },
+            {
+                "source_id": "NTG",
+                "target_id": "YNZ",
+                "strength": 1862
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "PVG",
+                "strength": 82613
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "SHA",
+                "strength": 354087
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "SHE",
+                "strength": 84978
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "SWA",
+                "strength": 16684
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "SYX",
+                "strength": 7564
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "SZX",
+                "strength": 170462
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "TAO",
+                "strength": 72872
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "TNA",
+                "strength": 33772
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "TXN",
+                "strength": 8732
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "TYN",
+                "strength": 27062
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "URC",
+                "strength": 53936
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "WEF",
+                "strength": 900
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "WEH",
+                "strength": 7600
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "WNZ",
+                "strength": 28210
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "WUH",
+                "strength": 83028
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "WUS",
+                "strength": 8556
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "XFN",
+                "strength": 800
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "XIL",
+                "strength": 6072
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "XIY",
+                "strength": 154504
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "XMN",
+                "strength": 58888
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "XNN",
+                "strength": 20832
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "XUZ",
+                "strength": 1200
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "YBP",
+                "strength": 3796
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "YIH",
+                "strength": 7564
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "YIW",
+                "strength": 1400
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "YNJ",
+                "strength": 26768
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "YNT",
+                "strength": 32704
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "YNZ",
+                "strength": 1400
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "ZGC",
+                "strength": 10824
+            },
+            {
+                "source_id": "PEK",
+                "target_id": "ZUH",
+                "strength": 13024
+            },
+            {
+                "source_id": "PVG",
+                "target_id": "SHE",
+                "strength": 51088
+            },
+            {
+                "source_id": "PVG",
+                "target_id": "SYX",
+                "strength": 32984
+            },
+            {
+                "source_id": "PVG",
+                "target_id": "SZX",
+                "strength": 307004
+            },
+            {
+                "source_id": "PVG",
+                "target_id": "TAO",
+                "strength": 112290
+            },
+            {
+                "source_id": "PVG",
+                "target_id": "TXN",
+                "strength": 7688
+            },
+            {
+                "source_id": "PVG",
+                "target_id": "WEH",
+                "strength": 1400
+            },
+            {
+                "source_id": "PVG",
+                "target_id": "WNZ",
+                "strength": 25792
+            },
+            {
+                "source_id": "PVG",
+                "target_id": "WUS",
+                "strength": 1248
+            },
+            {
+                "source_id": "PVG",
+                "target_id": "XFN",
+                "strength": 800
+            },
+            {
+                "source_id": "PVG",
+                "target_id": "XIY",
+                "strength": 14757
+            },
+            {
+                "source_id": "PVG",
+                "target_id": "XMN",
+                "strength": 792
+            },
+            {
+                "source_id": "PVG",
+                "target_id": "YNT",
+                "strength": 37844
+            },
+            {
+                "source_id": "PVG",
+                "target_id": "ZUH",
+                "strength": 27108
+            },
+            {
+                "source_id": "SHA",
+                "target_id": "SJW",
+                "strength": 7564
+            },
+            {
+                "source_id": "SHA",
+                "target_id": "SWA",
+                "strength": 25056
+            },
+            {
+                "source_id": "SHA",
+                "target_id": "TNA",
+                "strength": 49414
+            },
+            {
+                "source_id": "SHA",
+                "target_id": "TSN",
+                "strength": 54872
+            },
+            {
+                "source_id": "SHA",
+                "target_id": "TYN",
+                "strength": 30380
+            },
+            {
+                "source_id": "SHA",
+                "target_id": "URC",
+                "strength": 24434
+            },
+            {
+                "source_id": "SHA",
+                "target_id": "WNZ",
+                "strength": 55424
+            },
+            {
+                "source_id": "SHA",
+                "target_id": "WUH",
+                "strength": 85424
+            },
+            {
+                "source_id": "SHA",
+                "target_id": "WUS",
+                "strength": 6832
+            },
+            {
+                "source_id": "SHA",
+                "target_id": "XIY",
+                "strength": 83808
+            },
+            {
+                "source_id": "SHA",
+                "target_id": "XMN",
+                "strength": 105193
+            },
+            {
+                "source_id": "SHA",
+                "target_id": "XNN",
+                "strength": 3672
+            },
+            {
+                "source_id": "SHA",
+                "target_id": "XUZ",
+                "strength": 3100
+            },
+            {
+                "source_id": "SHA",
+                "target_id": "YBP",
+                "strength": 2628
+            },
+            {
+                "source_id": "SHA",
+                "target_id": "YIH",
+                "strength": 14639
+            },
+            {
+                "source_id": "SHE",
+                "target_id": "SZX",
+                "strength": 15500
+            },
+            {
+                "source_id": "SHE",
+                "target_id": "TAO",
+                "strength": 21385
+            },
+            {
+                "source_id": "SHE",
+                "target_id": "TNA",
+                "strength": 10530
+            },
+            {
+                "source_id": "SHE",
+                "target_id": "TSN",
+                "strength": 3900
+            },
+            {
+                "source_id": "SHE",
+                "target_id": "WNZ",
+                "strength": 14316
+            },
+            {
+                "source_id": "SHE",
+                "target_id": "WUH",
+                "strength": 4896
+            },
+            {
+                "source_id": "SHE",
+                "target_id": "XMN",
+                "strength": 7564
+            },
+            {
+                "source_id": "SHE",
+                "target_id": "YNJ",
+                "strength": 9300
+            },
+            {
+                "source_id": "SHE",
+                "target_id": "YNT",
+                "strength": 1800
+            },
+            {
+                "source_id": "SJW",
+                "target_id": "WNZ",
+                "strength": 2412
+            },
+            {
+                "source_id": "SWA",
+                "target_id": "YIW",
+                "strength": 3848
+            },
+            {
+                "source_id": "SWA",
+                "target_id": "ZUH",
+                "strength": 2700
+            },
+            {
+                "source_id": "SYX",
+                "target_id": "SZX",
+                "strength": 19832
+            },
+            {
+                "source_id": "SZX",
+                "target_id": "TAO",
+                "strength": 33853
+            },
+            {
+                "source_id": "SZX",
+                "target_id": "TNA",
+                "strength": 25141
+            },
+            {
+                "source_id": "SZX",
+                "target_id": "TSN",
+                "strength": 20964
+            },
+            {
+                "source_id": "SZX",
+                "target_id": "TXN",
+                "strength": 9664
+            },
+            {
+                "source_id": "SZX",
+                "target_id": "TYN",
+                "strength": 11360
+            },
+            {
+                "source_id": "SZX",
+                "target_id": "URC",
+                "strength": 3536
+            },
+            {
+                "source_id": "SZX",
+                "target_id": "WNZ",
+                "strength": 22592
+            },
+            {
+                "source_id": "SZX",
+                "target_id": "WUH",
+                "strength": 43828
+            },
+            {
+                "source_id": "SZX",
+                "target_id": "WUS",
+                "strength": 3536
+            },
+            {
+                "source_id": "SZX",
+                "target_id": "XIY",
+                "strength": 30916
+            },
+            {
+                "source_id": "SZX",
+                "target_id": "XMN",
+                "strength": 51084
+            },
+            {
+                "source_id": "SZX",
+                "target_id": "YBP",
+                "strength": 900
+            },
+            {
+                "source_id": "SZX",
+                "target_id": "YIH",
+                "strength": 3848
+            },
+            {
+                "source_id": "SZX",
+                "target_id": "YNT",
+                "strength": 1300
+            },
+            {
+                "source_id": "SZX",
+                "target_id": "ZHA",
+                "strength": 16864
+            },
+            {
+                "source_id": "TAO",
+                "target_id": "TSN",
+                "strength": 3100
+            },
+            {
+                "source_id": "TAO",
+                "target_id": "URC",
+                "strength": 2808
+            },
+            {
+                "source_id": "TAO",
+                "target_id": "WNZ",
+                "strength": 9568
+            },
+            {
+                "source_id": "TAO",
+                "target_id": "WUH",
+                "strength": 7896
+            },
+            {
+                "source_id": "TAO",
+                "target_id": "XIY",
+                "strength": 14284
+            },
+            {
+                "source_id": "TAO",
+                "target_id": "XMN",
+                "strength": 1550
+            },
+            {
+                "source_id": "TCG",
+                "target_id": "URC",
+                "strength": 1564
+            },
+            {
+                "source_id": "TNA",
+                "target_id": "URC",
+                "strength": 1984
+            },
+            {
+                "source_id": "TNA",
+                "target_id": "WNZ",
+                "strength": 900
+            },
+            {
+                "source_id": "TNA",
+                "target_id": "WUH",
+                "strength": 6462
+            },
+            {
+                "source_id": "TNA",
+                "target_id": "WUS",
+                "strength": 2484
+            },
+            {
+                "source_id": "TNA",
+                "target_id": "XIY",
+                "strength": 3100
+            },
+            {
+                "source_id": "TNA",
+                "target_id": "XMN",
+                "strength": 6517
+            },
+            {
+                "source_id": "TNA",
+                "target_id": "YNT",
+                "strength": 3614
+            },
+            {
+                "source_id": "TSN",
+                "target_id": "WUH",
+                "strength": 3900
+            },
+            {
+                "source_id": "TSN",
+                "target_id": "WUS",
+                "strength": 1104
+            },
+            {
+                "source_id": "TSN",
+                "target_id": "XIY",
+                "strength": 10248
+            },
+            {
+                "source_id": "TSN",
+                "target_id": "XMN",
+                "strength": 2484
+            },
+            {
+                "source_id": "TSN",
+                "target_id": "YNT",
+                "strength": 2484
+            },
+            {
+                "source_id": "TXN",
+                "target_id": "XMN",
+                "strength": 2208
+            },
+            {
+                "source_id": "URC",
+                "target_id": "XIY",
+                "strength": 32984
+            },
+            {
+                "source_id": "URC",
+                "target_id": "XNN",
+                "strength": 7616
+            },
+            {
+                "source_id": "URC",
+                "target_id": "YIN",
+                "strength": 11160
+            },
+            {
+                "source_id": "UYN",
+                "target_id": "XIY",
+                "strength": 1984
+            },
+            {
+                "source_id": "WNZ",
+                "target_id": "WUS",
+                "strength": 6072
+            },
+            {
+                "source_id": "WNZ",
+                "target_id": "XMN",
+                "strength": 10800
+            },
+            {
+                "source_id": "WUH",
+                "target_id": "XIY",
+                "strength": 14026
+            },
+            {
+                "source_id": "WUH",
+                "target_id": "XMN",
+                "strength": 18414
+            },
+            {
+                "source_id": "WUH",
+                "target_id": "YIH",
+                "strength": 2664
+            },
+            {
+                "source_id": "WUH",
+                "target_id": "ZUH",
+                "strength": 800
+            },
+            {
+                "source_id": "WUS",
+                "target_id": "XMN",
+                "strength": 16836
+            },
+            {
+                "source_id": "XIY",
+                "target_id": "XMN",
+                "strength": 1800
+            },
+            {
+                "source_id": "XIY",
+                "target_id": "XNN",
+                "strength": 13908
+            },
+            {
+                "source_id": "XIY",
+                "target_id": "YBP",
+                "strength": 900
+            },
+            {
+                "source_id": "XMN",
+                "target_id": "YIW",
+                "strength": 3848
+            },
+            {
+                "source_id": "XMN",
+                "target_id": "ZUH",
+                "strength": 7436
+            }
+        ]
+    }
+}

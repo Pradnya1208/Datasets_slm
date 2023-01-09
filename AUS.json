@@ -1,0 +1,3077 @@
+{
+    "config": {
+        "terminology": {
+            "item": "item_name",
+            "items": "",
+            "link": "link_name",
+            "links": "",
+            "link_strength": "link strength name",
+            "total_link_strength": ""
+        },
+        "templates": {
+            "item_description": "<div class='description_heading'>item_name</div><div class='description_label'>{label}</div><div class='description_text'>id: {id}, label: {label}</div>",
+            "link_description": "<div class='description_heading'>link_name</div>"
+        }
+    },
+    "network": {
+        "items": [
+            {
+                "id": "ABM",
+                "label": null,
+                "x": -1090.1610107421875,
+                "y": 187.41500854492188,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 53.4375
+                }
+            },
+            {
+                "id": "ABX",
+                "label": null,
+                "x": 407.0052185058594,
+                "y": 546.3208618164062,
+                "cluster": 18,
+                "scores": {
+                    "viz_size": 40.3125
+                }
+            },
+            {
+                "id": "ADL",
+                "label": null,
+                "x": -40.28770065307617,
+                "y": 633.107666015625,
+                "cluster": 6,
+                "scores": {
+                    "viz_size": 110.3125
+                }
+            },
+            {
+                "id": "ALH",
+                "label": null,
+                "x": 1234.8323974609375,
+                "y": -732.6590576171875,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "ARM",
+                "label": null,
+                "x": -172.2889862060547,
+                "y": 392.5368347167969,
+                "cluster": 20,
+                "scores": {
+                    "viz_size": 33.75
+                }
+            },
+            {
+                "id": "ASP",
+                "label": null,
+                "x": 28.747119903564453,
+                "y": 14.083194732666016,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 66.5625
+                }
+            },
+            {
+                "id": "AUU",
+                "label": null,
+                "x": -1251.759765625,
+                "y": 653.1390991210938,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "AYQ",
+                "label": null,
+                "x": -54.72800827026367,
+                "y": -266.45245361328125,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 40.3125
+                }
+            },
+            {
+                "id": "BCI",
+                "label": null,
+                "x": -535.16259765625,
+                "y": -543.9320068359375,
+                "cluster": 13,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "BDB",
+                "label": null,
+                "x": -345.8184509277344,
+                "y": -470.1526794433594,
+                "cluster": 8,
+                "scores": {
+                    "viz_size": 29.375
+                }
+            },
+            {
+                "id": "BDD",
+                "label": null,
+                "x": -1414.659423828125,
+                "y": -100.97847747802734,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 35.9375
+                }
+            },
+            {
+                "id": "BEO",
+                "label": null,
+                "x": 649.641845703125,
+                "y": 1243.6119384765625,
+                "cluster": 32,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "BEU",
+                "label": null,
+                "x": 321.48016357421875,
+                "y": -1419.5972900390625,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "BHQ",
+                "label": null,
+                "x": 477.61773681640625,
+                "y": 1321.23486328125,
+                "cluster": 9,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "BHS",
+                "label": null,
+                "x": 1172.9306640625,
+                "y": 371.5317077636719,
+                "cluster": 24,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "BKQ",
+                "label": null,
+                "x": -717.6551513671875,
+                "y": -942.9011840820312,
+                "cluster": 13,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "BLT",
+                "label": null,
+                "x": -726.0401611328125,
+                "y": -262.0679931640625,
+                "cluster": 21,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "BME",
+                "label": null,
+                "x": 602.1328735351562,
+                "y": -231.10455322265625,
+                "cluster": 10,
+                "scores": {
+                    "viz_size": 60
+                }
+            },
+            {
+                "id": "BMP",
+                "label": null,
+                "x": 258.6860046386719,
+                "y": -651.9185791015625,
+                "cluster": 8,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "BNE",
+                "label": null,
+                "x": -316.4239807128906,
+                "y": -267.8887939453125,
+                "cluster": 8,
+                "scores": {
+                    "viz_size": 171.5625
+                }
+            },
+            {
+                "id": "BNK",
+                "label": null,
+                "x": 875.0926513671875,
+                "y": 290.4268798828125,
+                "cluster": 7,
+                "scores": {
+                    "viz_size": 35.9375
+                }
+            },
+            {
+                "id": "BQL",
+                "label": null,
+                "x": 155.33152770996094,
+                "y": -1286.822509765625,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "BRK",
+                "label": null,
+                "x": 861.2036743164062,
+                "y": 1186.0115966796875,
+                "cluster": 9,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "BUC",
+                "label": null,
+                "x": -607.88916015625,
+                "y": -1272.294921875,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "BVI",
+                "label": null,
+                "x": 653.326904296875,
+                "y": -1352.951416015625,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "BWT",
+                "label": null,
+                "x": 870.692626953125,
+                "y": -127.55479431152344,
+                "cluster": 11,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "CAZ",
+                "label": null,
+                "x": 993.2926025390625,
+                "y": 1027.1671142578125,
+                "cluster": 9,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "CBR",
+                "label": null,
+                "x": 19.404460906982422,
+                "y": 472.71856689453125,
+                "cluster": 17,
+                "scores": {
+                    "viz_size": 57.8125
+                }
+            },
+            {
+                "id": "CED",
+                "label": null,
+                "x": 49.3886833190918,
+                "y": 1101.26953125,
+                "cluster": 6,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "CFS",
+                "label": null,
+                "x": 361.16583251953125,
+                "y": -176.604248046875,
+                "cluster": 7,
+                "scores": {
+                    "viz_size": 40.3125
+                }
+            },
+            {
+                "id": "CMA",
+                "label": null,
+                "x": -870.121826171875,
+                "y": 1034.092041015625,
+                "cluster": 12,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "CNB",
+                "label": null,
+                "x": 1321.7681884765625,
+                "y": 535.3272094726562,
+                "cluster": 9,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "CNC",
+                "label": null,
+                "x": -1115.2843017578125,
+                "y": -429.3377380371094,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 42.5
+                }
+            },
+            {
+                "id": "CNJ",
+                "label": null,
+                "x": -307.874267578125,
+                "y": -907.60302734375,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 40.3125
+                }
+            },
+            {
+                "id": "CNS",
+                "label": null,
+                "x": -638.1321411132812,
+                "y": -51.656124114990234,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 127.81249237060547
+                }
+            },
+            {
+                "id": "CPD",
+                "label": null,
+                "x": -395.4256896972656,
+                "y": 955.8136596679688,
+                "cluster": 6,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "CTL",
+                "label": null,
+                "x": 122.83599853515625,
+                "y": -841.964599609375,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 35.9375
+                }
+            },
+            {
+                "id": "CTN",
+                "label": null,
+                "x": -919.5416259765625,
+                "y": -786.7994384765625,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "CUQ",
+                "label": null,
+                "x": -1125.772705078125,
+                "y": 412.97698974609375,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "CVQ",
+                "label": null,
+                "x": 525.6298828125,
+                "y": -952.7024536132812,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 38.125
+                }
+            },
+            {
+                "id": "DBO",
+                "label": null,
+                "x": 1119.05029296875,
+                "y": 832.20263671875,
+                "cluster": 9,
+                "scores": {
+                    "viz_size": 40.3125
+                }
+            },
+            {
+                "id": "DGE",
+                "label": null,
+                "x": 978.8009033203125,
+                "y": 683.0650634765625,
+                "cluster": 31,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "DKI",
+                "label": null,
+                "x": -963.7307739257812,
+                "y": -323.2257080078125,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "DMD",
+                "label": null,
+                "x": -387.2297668457031,
+                "y": -1363.8157958984375,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 35.9375
+                }
+            },
+            {
+                "id": "DPO",
+                "label": null,
+                "x": 1056.1239013671875,
+                "y": -44.292335510253906,
+                "cluster": 11,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "DRB",
+                "label": null,
+                "x": 1337.927978515625,
+                "y": -89.03123474121094,
+                "cluster": 10,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "DRW",
+                "label": null,
+                "x": -378.4120788574219,
+                "y": 373.810302734375,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 75.3125
+                }
+            },
+            {
+                "id": "EDR",
+                "label": null,
+                "x": -896.1583862304688,
+                "y": 423.72601318359375,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "ELC",
+                "label": null,
+                "x": -389.71966552734375,
+                "y": 1160.2745361328125,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 44.6875
+                }
+            },
+            {
+                "id": "EMD",
+                "label": null,
+                "x": -731.3091430664062,
+                "y": -461.53741455078125,
+                "cluster": 21,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "EPR",
+                "label": null,
+                "x": 276.7575988769531,
+                "y": -1118.3406982421875,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "FIZ",
+                "label": null,
+                "x": 1196.8096923828125,
+                "y": -229.98455810546875,
+                "cluster": 10,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "GET",
+                "label": null,
+                "x": 740.4371337890625,
+                "y": -844.3600463867188,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 38.125
+                }
+            },
+            {
+                "id": "GFF",
+                "label": null,
+                "x": 552.2861938476562,
+                "y": 912.079345703125,
+                "cluster": 16,
+                "scores": {
+                    "viz_size": 35.9375
+                }
+            },
+            {
+                "id": "GFN",
+                "label": null,
+                "x": 612.1689453125,
+                "y": 423.0339660644531,
+                "cluster": 7,
+                "scores": {
+                    "viz_size": 35.9375
+                }
+            },
+            {
+                "id": "GIC",
+                "label": null,
+                "x": -1445.87890625,
+                "y": 109.84089660644531,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 35.9375
+                }
+            },
+            {
+                "id": "GLT",
+                "label": null,
+                "x": -101.01189422607422,
+                "y": -459.8326110839844,
+                "cluster": 8,
+                "scores": {
+                    "viz_size": 33.75
+                }
+            },
+            {
+                "id": "GOV",
+                "label": null,
+                "x": -615.557373046875,
+                "y": 1018.4985961914062,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 51.25
+                }
+            },
+            {
+                "id": "GTE",
+                "label": null,
+                "x": -781.3046875,
+                "y": 1209.1190185546875,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "HBA",
+                "label": null,
+                "x": 682.5477905273438,
+                "y": -8.145222663879395,
+                "cluster": 29,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "HCQ",
+                "label": null,
+                "x": 1401.664794921875,
+                "y": -308.84521484375,
+                "cluster": 10,
+                "scores": {
+                    "viz_size": 29.375
+                }
+            },
+            {
+                "id": "HGD",
+                "label": null,
+                "x": -368.053955078125,
+                "y": -1189.877685546875,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "HID",
+                "label": null,
+                "x": -1078.6490478515625,
+                "y": -88.08899688720703,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 84.0625
+                }
+            },
+            {
+                "id": "HTI",
+                "label": null,
+                "x": -504.5846252441406,
+                "y": 189.53074645996094,
+                "cluster": 28,
+                "scores": {
+                    "viz_size": 40.3125
+                }
+            },
+            {
+                "id": "HVB",
+                "label": null,
+                "x": -550.7213745117188,
+                "y": -286.5271911621094,
+                "cluster": 15,
+                "scores": {
+                    "viz_size": 35.9375
+                }
+            },
+            {
+                "id": "IRG",
+                "label": null,
+                "x": -888.2415771484375,
+                "y": 239.3207244873047,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "ISA",
+                "label": null,
+                "x": -106.70075988769531,
+                "y": -1229.5633544921875,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 49.0625
+                }
+            },
+            {
+                "id": "JCK",
+                "label": null,
+                "x": -186.80117797851562,
+                "y": -1080.2669677734375,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 35.9375
+                }
+            },
+            {
+                "id": "KAX",
+                "label": null,
+                "x": 909.3231811523438,
+                "y": -539.2064208984375,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "KGC",
+                "label": null,
+                "x": 283.09454345703125,
+                "y": 1382.208984375,
+                "cluster": 6,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "KGI",
+                "label": null,
+                "x": 31.271648406982422,
+                "y": -1421.2398681640625,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "KNS",
+                "label": null,
+                "x": 667.8582153320312,
+                "y": -440.5412292480469,
+                "cluster": 11,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "KNX",
+                "label": null,
+                "x": 240.2634735107422,
+                "y": 432.06451416015625,
+                "cluster": 10,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "KRB",
+                "label": null,
+                "x": -787.3314819335938,
+                "y": 609.0156860351562,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "KTA",
+                "label": null,
+                "x": 1052.123046875,
+                "y": -358.2444763183594,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "KTR",
+                "label": null,
+                "x": -645.0267944335938,
+                "y": 800.4010009765625,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "KUG",
+                "label": null,
+                "x": -1313.689208984375,
+                "y": -497.7929382324219,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 40.3125
+                }
+            },
+            {
+                "id": "KWM",
+                "label": null,
+                "x": -1027.20751953125,
+                "y": 621.17578125,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "LDH",
+                "label": null,
+                "x": 152.87965393066406,
+                "y": -251.02450561523438,
+                "cluster": 27,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "LEA",
+                "label": null,
+                "x": 447.1275634765625,
+                "y": -1248.9283447265625,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 35.9375
+                }
+            },
+            {
+                "id": "LEL",
+                "label": null,
+                "x": -396.4706726074219,
+                "y": 1368.9351806640625,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "LER",
+                "label": null,
+                "x": 705.9861450195312,
+                "y": -615.3612060546875,
+                "cluster": 14,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "LHG",
+                "label": null,
+                "x": 1461.714111328125,
+                "y": 53.06395721435547,
+                "cluster": 9,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "LNO",
+                "label": null,
+                "x": 926.202880859375,
+                "y": -745.2025146484375,
+                "cluster": 14,
+                "scores": {
+                    "viz_size": 33.75
+                }
+            },
+            {
+                "id": "LRE",
+                "label": null,
+                "x": -513.7415161132812,
+                "y": -773.0319213867188,
+                "cluster": 13,
+                "scores": {
+                    "viz_size": 38.125
+                }
+            },
+            {
+                "id": "LST",
+                "label": null,
+                "x": 473.200927734375,
+                "y": 75.24788665771484,
+                "cluster": 11,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "LSY",
+                "label": null,
+                "x": 1075.049072265625,
+                "y": 176.84124755859375,
+                "cluster": 7,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "LVO",
+                "label": null,
+                "x": 1106.5491943359375,
+                "y": -905.614013671875,
+                "cluster": 14,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "LZR",
+                "label": null,
+                "x": -1089.6912841796875,
+                "y": -946.40673828125,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "MBH",
+                "label": null,
+                "x": -691.0223388671875,
+                "y": 161.802734375,
+                "cluster": 15,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "MCV",
+                "label": null,
+                "x": -238.1016082763672,
+                "y": 760.0057373046875,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "MCY",
+                "label": null,
+                "x": -447.9054260253906,
+                "y": -52.00851058959961,
+                "cluster": 15,
+                "scores": {
+                    "viz_size": 40.3125
+                }
+            },
+            {
+                "id": "MEL",
+                "label": null,
+                "x": 229.11598205566406,
+                "y": 33.816444396972656,
+                "cluster": 11,
+                "scores": {
+                    "viz_size": 132.1875
+                }
+            },
+            {
+                "id": "MGB",
+                "label": null,
+                "x": 164.4556121826172,
+                "y": 228.79605102539062,
+                "cluster": 19,
+                "scores": {
+                    "viz_size": 35.9375
+                }
+            },
+            {
+                "id": "MGT",
+                "label": null,
+                "x": -203.65631103515625,
+                "y": 1412.104248046875,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 35.9375
+                }
+            },
+            {
+                "id": "MHU",
+                "label": null,
+                "x": 664.8993530273438,
+                "y": 241.0341796875,
+                "cluster": 30,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "MIM",
+                "label": null,
+                "x": 891.6522216796875,
+                "y": 104.78289794921875,
+                "cluster": 22,
+                "scores": {
+                    "viz_size": 33.75
+                }
+            },
+            {
+                "id": "MJK",
+                "label": null,
+                "x": 684.119140625,
+                "y": -1101.0107421875,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 33.75
+                }
+            },
+            {
+                "id": "MKR",
+                "label": null,
+                "x": 1131.0548095703125,
+                "y": -580.0280151367188,
+                "cluster": 25,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "MKY",
+                "label": null,
+                "x": 14.729256629943848,
+                "y": -680.3926391601562,
+                "cluster": 8,
+                "scores": {
+                    "viz_size": 40.3125
+                }
+            },
+            {
+                "id": "MMG",
+                "label": null,
+                "x": 491.01275634765625,
+                "y": -733.1782836914062,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "MNG",
+                "label": null,
+                "x": -186.7692413330078,
+                "y": 1079.087646484375,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 40.3125
+                }
+            },
+            {
+                "id": "MOO",
+                "label": null,
+                "x": -653.2916259765625,
+                "y": 377.63482666015625,
+                "cluster": 6,
+                "scores": {
+                    "viz_size": 29.375
+                }
+            },
+            {
+                "id": "MQL",
+                "label": null,
+                "x": 108.80683135986328,
+                "y": 819.5764770507812,
+                "cluster": 16,
+                "scores": {
+                    "viz_size": 35.9375
+                }
+            },
+            {
+                "id": "MRZ",
+                "label": null,
+                "x": 1220.660888671875,
+                "y": 700.0238037109375,
+                "cluster": 23,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "MYA",
+                "label": null,
+                "x": 801.8695678710938,
+                "y": 510.22113037109375,
+                "cluster": 22,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "MYI",
+                "label": null,
+                "x": -1259.408935546875,
+                "y": -673.5352783203125,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 33.75
+                }
+            },
+            {
+                "id": "NAA",
+                "label": null,
+                "x": 732.1561889648438,
+                "y": 1023.181396484375,
+                "cluster": 23,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "NLF",
+                "label": null,
+                "x": -1095.386962890625,
+                "y": -751.086669921875,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 33.75
+                }
+            },
+            {
+                "id": "NRA",
+                "label": null,
+                "x": 458.2716979980469,
+                "y": 1073.791259765625,
+                "cluster": 16,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "NTL",
+                "label": null,
+                "x": -42.85662841796875,
+                "y": 206.8834228515625,
+                "cluster": 7,
+                "scores": {
+                    "viz_size": 55.625
+                }
+            },
+            {
+                "id": "NTN",
+                "label": null,
+                "x": -904.289306640625,
+                "y": -1059.970458984375,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "NUB",
+                "label": null,
+                "x": -597.1805419921875,
+                "y": 1291.8048095703125,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 29.375
+                }
+            },
+            {
+                "id": "OAG",
+                "label": null,
+                "x": 793.677734375,
+                "y": 830.36328125,
+                "cluster": 33,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "OKR",
+                "label": null,
+                "x": -971.2821044921875,
+                "y": -538.665771484375,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 42.5
+                }
+            },
+            {
+                "id": "OKY",
+                "label": null,
+                "x": -846.1058959960938,
+                "y": 800.3544311523438,
+                "cluster": 12,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "OLP",
+                "label": null,
+                "x": 242.00848388671875,
+                "y": 1191.1051025390625,
+                "cluster": 6,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "ONG",
+                "label": null,
+                "x": -769.8142700195312,
+                "y": -1178.90673828125,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 35.9375
+                }
+            },
+            {
+                "id": "OOL",
+                "label": null,
+                "x": -271.9767150878906,
+                "y": 149.83294677734375,
+                "cluster": 35,
+                "scores": {
+                    "viz_size": 49.0625
+                }
+            },
+            {
+                "id": "OOM",
+                "label": null,
+                "x": 364.5263671875,
+                "y": 788.6299438476562,
+                "cluster": 7,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "PBO",
+                "label": null,
+                "x": 55.68571090698242,
+                "y": -1076.5296630859375,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "PER",
+                "label": null,
+                "x": 482.2521057128906,
+                "y": -535.2783813476562,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 132.1875
+                }
+            },
+            {
+                "id": "PHE",
+                "label": null,
+                "x": 861.0257568359375,
+                "y": -358.01031494140625,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 35.9375
+                }
+            },
+            {
+                "id": "PKE",
+                "label": null,
+                "x": 1277.364501953125,
+                "y": 140.61575317382812,
+                "cluster": 24,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "PLO",
+                "label": null,
+                "x": 83.68521118164062,
+                "y": 1416.3226318359375,
+                "cluster": 6,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "PPP",
+                "label": null,
+                "x": -198.98696899414062,
+                "y": -50.54866027832031,
+                "cluster": 34,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "PQQ",
+                "label": null,
+                "x": 1040.0811767578125,
+                "y": 466.099853515625,
+                "cluster": 26,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "PTJ",
+                "label": null,
+                "x": 308.0717468261719,
+                "y": -345.3581848144531,
+                "cluster": 19,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "PUG",
+                "label": null,
+                "x": -459.19415283203125,
+                "y": 738.0360107421875,
+                "cluster": 6,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "RAM",
+                "label": null,
+                "x": -69.98676300048828,
+                "y": 1300.5306396484375,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 40.3125
+                }
+            },
+            {
+                "id": "RCM",
+                "label": null,
+                "x": -200.12176513671875,
+                "y": -1433.1431884765625,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "RMA",
+                "label": null,
+                "x": -69.2608871459961,
+                "y": -880.3460693359375,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "ROK",
+                "label": null,
+                "x": 115.14095306396484,
+                "y": -429.6715087890625,
+                "cluster": 8,
+                "scores": {
+                    "viz_size": 40.3125
+                }
+            },
+            {
+                "id": "SBR",
+                "label": null,
+                "x": -1327.707275390625,
+                "y": 287.752685546875,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 44.6875
+                }
+            },
+            {
+                "id": "SGO",
+                "label": null,
+                "x": -1114.0870361328125,
+                "y": 819.35546875,
+                "cluster": 12,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "SYD",
+                "label": null,
+                "x": 404.88726806640625,
+                "y": 296.34796142578125,
+                "cluster": 7,
+                "scores": {
+                    "viz_size": 200
+                }
+            },
+            {
+                "id": "SYU",
+                "label": null,
+                "x": -1358.650146484375,
+                "y": 465.3719787597656,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 42.5
+                }
+            },
+            {
+                "id": "TCA",
+                "label": null,
+                "x": -534.5974731445312,
+                "y": 533.4309692382812,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "TGN",
+                "label": null,
+                "x": 261.89691162109375,
+                "y": 956.3090209960938,
+                "cluster": 17,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "THG",
+                "label": null,
+                "x": -691.3403930664062,
+                "y": -674.0745239257812,
+                "cluster": 8,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "TIS",
+                "label": null,
+                "x": -1408.2666015625,
+                "y": -304.9517822265625,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 25
+                }
+            },
+            {
+                "id": "TMW",
+                "label": null,
+                "x": -296.490478515625,
+                "y": 556.7871704101562,
+                "cluster": 20,
+                "scores": {
+                    "viz_size": 33.75
+                }
+            },
+            {
+                "id": "TRO",
+                "label": null,
+                "x": 591.697265625,
+                "y": 689.2893676757812,
+                "cluster": 7,
+                "scores": {
+                    "viz_size": 29.375
+                }
+            },
+            {
+                "id": "TSV",
+                "label": null,
+                "x": -226.26443481445312,
+                "y": -708.841552734375,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 57.8125
+                }
+            },
+            {
+                "id": "UBB",
+                "label": null,
+                "x": -1197.70068359375,
+                "y": -210.9317169189453,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 44.6875
+                }
+            },
+            {
+                "id": "ULP",
+                "label": null,
+                "x": 928.4368286132812,
+                "y": -975.4744262695312,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "WEI",
+                "label": null,
+                "x": -861.6961669921875,
+                "y": -21.70914077758789,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "WGA",
+                "label": null,
+                "x": 189.4354248046875,
+                "y": 639.9644165039062,
+                "cluster": 18,
+                "scores": {
+                    "viz_size": 40.3125
+                }
+            },
+            {
+                "id": "WGE",
+                "label": null,
+                "x": 1421.2432861328125,
+                "y": 327.8087463378906,
+                "cluster": 9,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "WIN",
+                "label": null,
+                "x": -589.3580932617188,
+                "y": -1040.9774169921875,
+                "cluster": 13,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "WNR",
+                "label": null,
+                "x": 864.2781372070312,
+                "y": -1156.2481689453125,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "WUN",
+                "label": null,
+                "x": 1306.57177734375,
+                "y": -493.9134521484375,
+                "cluster": 25,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            },
+            {
+                "id": "WYA",
+                "label": null,
+                "x": -79.53541564941406,
+                "y": 898.7814331054688,
+                "cluster": 6,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "XMY",
+                "label": null,
+                "x": -1242.337646484375,
+                "y": 21.910900115966797,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 44.6875
+                }
+            },
+            {
+                "id": "XTG",
+                "label": null,
+                "x": -1071.803955078125,
+                "y": 1018.5403442382812,
+                "cluster": 12,
+                "scores": {
+                    "viz_size": 27.1875
+                }
+            },
+            {
+                "id": "ZNE",
+                "label": null,
+                "x": 314.0450134277344,
+                "y": -884.6629638671875,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 31.5625
+                }
+            }
+        ],
+        "links": [
+            {
+                "source_id": "ABM",
+                "target_id": "CNC",
+                "strength": 115
+            },
+            {
+                "source_id": "ABM",
+                "target_id": "CNS",
+                "strength": 1330
+            },
+            {
+                "source_id": "ABM",
+                "target_id": "HID",
+                "strength": 270
+            },
+            {
+                "source_id": "ABM",
+                "target_id": "KUG",
+                "strength": 378
+            },
+            {
+                "source_id": "ABM",
+                "target_id": "MYI",
+                "strength": 243
+            },
+            {
+                "source_id": "ABM",
+                "target_id": "SBR",
+                "strength": 322
+            },
+            {
+                "source_id": "ABM",
+                "target_id": "SYU",
+                "strength": 486
+            },
+            {
+                "source_id": "ABM",
+                "target_id": "UBB",
+                "strength": 36
+            },
+            {
+                "source_id": "ABM",
+                "target_id": "XMY",
+                "strength": 20
+            },
+            {
+                "source_id": "ABX",
+                "target_id": "CBR",
+                "strength": 736
+            },
+            {
+                "source_id": "ABX",
+                "target_id": "MEL",
+                "strength": 5832
+            },
+            {
+                "source_id": "ABX",
+                "target_id": "SYD",
+                "strength": 18788
+            },
+            {
+                "source_id": "ABX",
+                "target_id": "WGA",
+                "strength": 4176
+            },
+            {
+                "source_id": "ADL",
+                "target_id": "ASP",
+                "strength": 6986
+            },
+            {
+                "source_id": "ADL",
+                "target_id": "BHQ",
+                "strength": 2926
+            },
+            {
+                "source_id": "ADL",
+                "target_id": "BME",
+                "strength": 1152
+            },
+            {
+                "source_id": "ADL",
+                "target_id": "BNE",
+                "strength": 40049
+            },
+            {
+                "source_id": "ADL",
+                "target_id": "CBR",
+                "strength": 12877
+            },
+            {
+                "source_id": "ADL",
+                "target_id": "CED",
+                "strength": 1482
+            },
+            {
+                "source_id": "ADL",
+                "target_id": "CPD",
+                "strength": 836
+            },
+            {
+                "source_id": "ADL",
+                "target_id": "DRW",
+                "strength": 16998
+            },
+            {
+                "source_id": "ADL",
+                "target_id": "KGC",
+                "strength": 3546
+            },
+            {
+                "source_id": "ADL",
+                "target_id": "MEL",
+                "strength": 153746
+            },
+            {
+                "source_id": "ADL",
+                "target_id": "MGB",
+                "strength": 8084
+            },
+            {
+                "source_id": "ADL",
+                "target_id": "MOO",
+                "strength": 4352
+            },
+            {
+                "source_id": "ADL",
+                "target_id": "MQL",
+                "strength": 1000
+            },
+            {
+                "source_id": "ADL",
+                "target_id": "OLP",
+                "strength": 5544
+            },
+            {
+                "source_id": "ADL",
+                "target_id": "OOL",
+                "strength": 10458
+            },
+            {
+                "source_id": "ADL",
+                "target_id": "PER",
+                "strength": 37530
+            },
+            {
+                "source_id": "ADL",
+                "target_id": "PLO",
+                "strength": 14632
+            },
+            {
+                "source_id": "ADL",
+                "target_id": "PUG",
+                "strength": 828
+            },
+            {
+                "source_id": "ADL",
+                "target_id": "SYD",
+                "strength": 137916
+            },
+            {
+                "source_id": "ADL",
+                "target_id": "WYA",
+                "strength": 8116
+            },
+            {
+                "source_id": "ALH",
+                "target_id": "PER",
+                "strength": 5800
+            },
+            {
+                "source_id": "ARM",
+                "target_id": "BNE",
+                "strength": 342
+            },
+            {
+                "source_id": "ARM",
+                "target_id": "SYD",
+                "strength": 5414
+            },
+            {
+                "source_id": "ARM",
+                "target_id": "TMW",
+                "strength": 4172
+            },
+            {
+                "source_id": "ASP",
+                "target_id": "AYQ",
+                "strength": 4998
+            },
+            {
+                "source_id": "ASP",
+                "target_id": "BME",
+                "strength": 2464
+            },
+            {
+                "source_id": "ASP",
+                "target_id": "BNE",
+                "strength": 2584
+            },
+            {
+                "source_id": "ASP",
+                "target_id": "CNS",
+                "strength": 5136
+            },
+            {
+                "source_id": "ASP",
+                "target_id": "DRW",
+                "strength": 11932
+            },
+            {
+                "source_id": "ASP",
+                "target_id": "MEL",
+                "strength": 7394
+            },
+            {
+                "source_id": "ASP",
+                "target_id": "PER",
+                "strength": 5506
+            },
+            {
+                "source_id": "ASP",
+                "target_id": "SYD",
+                "strength": 18846
+            },
+            {
+                "source_id": "ASP",
+                "target_id": "TCA",
+                "strength": 874
+            },
+            {
+                "source_id": "AUU",
+                "target_id": "CNS",
+                "strength": 180
+            },
+            {
+                "source_id": "AYQ",
+                "target_id": "CNS",
+                "strength": 11288
+            },
+            {
+                "source_id": "AYQ",
+                "target_id": "PER",
+                "strength": 5020
+            },
+            {
+                "source_id": "AYQ",
+                "target_id": "SYD",
+                "strength": 12914
+            },
+            {
+                "source_id": "BCI",
+                "target_id": "BNE",
+                "strength": 554
+            },
+            {
+                "source_id": "BCI",
+                "target_id": "LRE",
+                "strength": 554
+            },
+            {
+                "source_id": "BDB",
+                "target_id": "BNE",
+                "strength": 7240
+            },
+            {
+                "source_id": "BDB",
+                "target_id": "GLT",
+                "strength": 144
+            },
+            {
+                "source_id": "BDD",
+                "target_id": "GIC",
+                "strength": 100
+            },
+            {
+                "source_id": "BDD",
+                "target_id": "HID",
+                "strength": 640
+            },
+            {
+                "source_id": "BDD",
+                "target_id": "KUG",
+                "strength": 1296
+            },
+            {
+                "source_id": "BDD",
+                "target_id": "UBB",
+                "strength": 486
+            },
+            {
+                "source_id": "BEO",
+                "target_id": "SYD",
+                "strength": 7072
+            },
+            {
+                "source_id": "BEU",
+                "target_id": "BQL",
+                "strength": 342
+            },
+            {
+                "source_id": "BEU",
+                "target_id": "BVI",
+                "strength": 342
+            },
+            {
+                "source_id": "BHQ",
+                "target_id": "DBO",
+                "strength": 1944
+            },
+            {
+                "source_id": "BHS",
+                "target_id": "PKE",
+                "strength": 3078
+            },
+            {
+                "source_id": "BHS",
+                "target_id": "SYD",
+                "strength": 3078
+            },
+            {
+                "source_id": "BKQ",
+                "target_id": "BNE",
+                "strength": 524
+            },
+            {
+                "source_id": "BKQ",
+                "target_id": "LRE",
+                "strength": 524
+            },
+            {
+                "source_id": "BLT",
+                "target_id": "BNE",
+                "strength": 972
+            },
+            {
+                "source_id": "BLT",
+                "target_id": "EMD",
+                "strength": 972
+            },
+            {
+                "source_id": "BME",
+                "target_id": "DRB",
+                "strength": 1026
+            },
+            {
+                "source_id": "BME",
+                "target_id": "FIZ",
+                "strength": 441
+            },
+            {
+                "source_id": "BME",
+                "target_id": "HCQ",
+                "strength": 36
+            },
+            {
+                "source_id": "BME",
+                "target_id": "KNX",
+                "strength": 3720
+            },
+            {
+                "source_id": "BME",
+                "target_id": "MEL",
+                "strength": 2880
+            },
+            {
+                "source_id": "BME",
+                "target_id": "PER",
+                "strength": 18296
+            },
+            {
+                "source_id": "BME",
+                "target_id": "PHE",
+                "strength": 234
+            },
+            {
+                "source_id": "BMP",
+                "target_id": "MKY",
+                "strength": 744
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "CBR",
+                "strength": 35376
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "CFS",
+                "strength": 2232
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "CNJ",
+                "strength": 476
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "CNS",
+                "strength": 86900
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "CTL",
+                "strength": 342
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "DRW",
+                "strength": 29504
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "EMD",
+                "strength": 4860
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "GLT",
+                "strength": 18002
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "HTI",
+                "strength": 8032
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "HVB",
+                "strength": 1736
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "ISA",
+                "strength": 8208
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "LDH",
+                "strength": 288
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "LRE",
+                "strength": 1266
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "MBH",
+                "strength": 3960
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "MCY",
+                "strength": 3486
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "MEL",
+                "strength": 228392
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "MKY",
+                "strength": 42660
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "MOO",
+                "strength": 256
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "NTL",
+                "strength": 6016
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "OKY",
+                "strength": 342
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "OOL",
+                "strength": 3148
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "PER",
+                "strength": 31248
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "PPP",
+                "strength": 4712
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "RMA",
+                "strength": 2232
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "ROK",
+                "strength": 34446
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "SYD",
+                "strength": 375990
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "THG",
+                "strength": 1900
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "TMW",
+                "strength": 342
+            },
+            {
+                "source_id": "BNE",
+                "target_id": "TSV",
+                "strength": 57734
+            },
+            {
+                "source_id": "BNK",
+                "target_id": "GFN",
+                "strength": 4464
+            },
+            {
+                "source_id": "BNK",
+                "target_id": "LSY",
+                "strength": 3348
+            },
+            {
+                "source_id": "BNK",
+                "target_id": "SYD",
+                "strength": 7924
+            },
+            {
+                "source_id": "BQL",
+                "target_id": "ISA",
+                "strength": 342
+            },
+            {
+                "source_id": "BRK",
+                "target_id": "CAZ",
+                "strength": 440
+            },
+            {
+                "source_id": "BUC",
+                "target_id": "DMD",
+                "strength": 361
+            },
+            {
+                "source_id": "BUC",
+                "target_id": "ONG",
+                "strength": 361
+            },
+            {
+                "source_id": "BVI",
+                "target_id": "WNR",
+                "strength": 342
+            },
+            {
+                "source_id": "BWT",
+                "target_id": "MEL",
+                "strength": 9216
+            },
+            {
+                "source_id": "CAZ",
+                "target_id": "DBO",
+                "strength": 808
+            },
+            {
+                "source_id": "CBR",
+                "target_id": "MEL",
+                "strength": 90261
+            },
+            {
+                "source_id": "CBR",
+                "target_id": "NTL",
+                "strength": 800
+            },
+            {
+                "source_id": "CBR",
+                "target_id": "SYD",
+                "strength": 121628
+            },
+            {
+                "source_id": "CBR",
+                "target_id": "TGN",
+                "strength": 1944
+            },
+            {
+                "source_id": "CBR",
+                "target_id": "WGA",
+                "strength": 368
+            },
+            {
+                "source_id": "CFS",
+                "target_id": "GFN",
+                "strength": 2672
+            },
+            {
+                "source_id": "CFS",
+                "target_id": "NTL",
+                "strength": 1944
+            },
+            {
+                "source_id": "CFS",
+                "target_id": "SYD",
+                "strength": 25048
+            },
+            {
+                "source_id": "CMA",
+                "target_id": "SGO",
+                "strength": 342
+            },
+            {
+                "source_id": "CMA",
+                "target_id": "XTG",
+                "strength": 342
+            },
+            {
+                "source_id": "CNB",
+                "target_id": "DBO",
+                "strength": 432
+            },
+            {
+                "source_id": "CNB",
+                "target_id": "WGE",
+                "strength": 432
+            },
+            {
+                "source_id": "CNC",
+                "target_id": "HID",
+                "strength": 230
+            },
+            {
+                "source_id": "CNC",
+                "target_id": "OKR",
+                "strength": 509
+            },
+            {
+                "source_id": "CNC",
+                "target_id": "SYU",
+                "strength": 883
+            },
+            {
+                "source_id": "CNC",
+                "target_id": "XMY",
+                "strength": 1090
+            },
+            {
+                "source_id": "CNJ",
+                "target_id": "ISA",
+                "strength": 1509
+            },
+            {
+                "source_id": "CNJ",
+                "target_id": "JCK",
+                "strength": 190
+            },
+            {
+                "source_id": "CNJ",
+                "target_id": "TSV",
+                "strength": 1713
+            },
+            {
+                "source_id": "CNS",
+                "target_id": "CTN",
+                "strength": 580
+            },
+            {
+                "source_id": "CNS",
+                "target_id": "CUQ",
+                "strength": 90
+            },
+            {
+                "source_id": "CNS",
+                "target_id": "DKI",
+                "strength": 2988
+            },
+            {
+                "source_id": "CNS",
+                "target_id": "DRW",
+                "strength": 7050
+            },
+            {
+                "source_id": "CNS",
+                "target_id": "EDR",
+                "strength": 437
+            },
+            {
+                "source_id": "CNS",
+                "target_id": "GOV",
+                "strength": 4624
+            },
+            {
+                "source_id": "CNS",
+                "target_id": "HID",
+                "strength": 5688
+            },
+            {
+                "source_id": "CNS",
+                "target_id": "HTI",
+                "strength": 2832
+            },
+            {
+                "source_id": "CNS",
+                "target_id": "IRG",
+                "strength": 220
+            },
+            {
+                "source_id": "CNS",
+                "target_id": "KRB",
+                "strength": 270
+            },
+            {
+                "source_id": "CNS",
+                "target_id": "KWM",
+                "strength": 437
+            },
+            {
+                "source_id": "CNS",
+                "target_id": "LZR",
+                "strength": 2232
+            },
+            {
+                "source_id": "CNS",
+                "target_id": "MEL",
+                "strength": 18254
+            },
+            {
+                "source_id": "CNS",
+                "target_id": "NTN",
+                "strength": 760
+            },
+            {
+                "source_id": "CNS",
+                "target_id": "OKR",
+                "strength": 220
+            },
+            {
+                "source_id": "CNS",
+                "target_id": "OOL",
+                "strength": 18970
+            },
+            {
+                "source_id": "CNS",
+                "target_id": "SYD",
+                "strength": 80877
+            },
+            {
+                "source_id": "CNS",
+                "target_id": "TSV",
+                "strength": 13132
+            },
+            {
+                "source_id": "CNS",
+                "target_id": "WEI",
+                "strength": 3872
+            },
+            {
+                "source_id": "CTL",
+                "target_id": "RMA",
+                "strength": 2232
+            },
+            {
+                "source_id": "CTL",
+                "target_id": "ULP",
+                "strength": 342
+            },
+            {
+                "source_id": "CUQ",
+                "target_id": "IRG",
+                "strength": 90
+            },
+            {
+                "source_id": "CVQ",
+                "target_id": "GET",
+                "strength": 1500
+            },
+            {
+                "source_id": "CVQ",
+                "target_id": "LEA",
+                "strength": 400
+            },
+            {
+                "source_id": "CVQ",
+                "target_id": "MJK",
+                "strength": 350
+            },
+            {
+                "source_id": "CVQ",
+                "target_id": "PER",
+                "strength": 1250
+            },
+            {
+                "source_id": "DBO",
+                "target_id": "SYD",
+                "strength": 20998
+            },
+            {
+                "source_id": "DGE",
+                "target_id": "SYD",
+                "strength": 800
+            },
+            {
+                "source_id": "DMD",
+                "target_id": "ISA",
+                "strength": 760
+            },
+            {
+                "source_id": "DMD",
+                "target_id": "ONG",
+                "strength": 399
+            },
+            {
+                "source_id": "DPO",
+                "target_id": "MEL",
+                "strength": 13104
+            },
+            {
+                "source_id": "DRW",
+                "target_id": "GOV",
+                "strength": 5944
+            },
+            {
+                "source_id": "DRW",
+                "target_id": "KNX",
+                "strength": 4260
+            },
+            {
+                "source_id": "DRW",
+                "target_id": "KTR",
+                "strength": 874
+            },
+            {
+                "source_id": "DRW",
+                "target_id": "MCV",
+                "strength": 3024
+            },
+            {
+                "source_id": "DRW",
+                "target_id": "MEL",
+                "strength": 6054
+            },
+            {
+                "source_id": "DRW",
+                "target_id": "MNG",
+                "strength": 2052
+            },
+            {
+                "source_id": "DRW",
+                "target_id": "PER",
+                "strength": 9742
+            },
+            {
+                "source_id": "DRW",
+                "target_id": "SYD",
+                "strength": 21024
+            },
+            {
+                "source_id": "EDR",
+                "target_id": "KWM",
+                "strength": 437
+            },
+            {
+                "source_id": "ELC",
+                "target_id": "GOV",
+                "strength": 392
+            },
+            {
+                "source_id": "ELC",
+                "target_id": "LEL",
+                "strength": 280
+            },
+            {
+                "source_id": "ELC",
+                "target_id": "MGT",
+                "strength": 608
+            },
+            {
+                "source_id": "ELC",
+                "target_id": "MNG",
+                "strength": 248
+            },
+            {
+                "source_id": "ELC",
+                "target_id": "RAM",
+                "strength": 184
+            },
+            {
+                "source_id": "EPR",
+                "target_id": "PER",
+                "strength": 4600
+            },
+            {
+                "source_id": "FIZ",
+                "target_id": "HCQ",
+                "strength": 441
+            },
+            {
+                "source_id": "GET",
+                "target_id": "LEA",
+                "strength": 250
+            },
+            {
+                "source_id": "GET",
+                "target_id": "MJK",
+                "strength": 100
+            },
+            {
+                "source_id": "GET",
+                "target_id": "PER",
+                "strength": 8800
+            },
+            {
+                "source_id": "GFF",
+                "target_id": "MQL",
+                "strength": 1224
+            },
+            {
+                "source_id": "GFF",
+                "target_id": "NRA",
+                "strength": 2916
+            },
+            {
+                "source_id": "GFF",
+                "target_id": "SYD",
+                "strength": 4140
+            },
+            {
+                "source_id": "GFN",
+                "target_id": "SYD",
+                "strength": 4464
+            },
+            {
+                "source_id": "GIC",
+                "target_id": "HID",
+                "strength": 670
+            },
+            {
+                "source_id": "GIC",
+                "target_id": "SBR",
+                "strength": 1427
+            },
+            {
+                "source_id": "GIC",
+                "target_id": "UBB",
+                "strength": 36
+            },
+            {
+                "source_id": "GLT",
+                "target_id": "ROK",
+                "strength": 5562
+            },
+            {
+                "source_id": "GOV",
+                "target_id": "GTE",
+                "strength": 1584
+            },
+            {
+                "source_id": "GOV",
+                "target_id": "LEL",
+                "strength": 280
+            },
+            {
+                "source_id": "GOV",
+                "target_id": "NUB",
+                "strength": 104
+            },
+            {
+                "source_id": "GOV",
+                "target_id": "RAM",
+                "strength": 112
+            },
+            {
+                "source_id": "GTE",
+                "target_id": "NUB",
+                "strength": 264
+            },
+            {
+                "source_id": "HBA",
+                "target_id": "MEL",
+                "strength": 86922
+            },
+            {
+                "source_id": "HBA",
+                "target_id": "SYD",
+                "strength": 21762
+            },
+            {
+                "source_id": "HGD",
+                "target_id": "RCM",
+                "strength": 494
+            },
+            {
+                "source_id": "HGD",
+                "target_id": "TSV",
+                "strength": 494
+            },
+            {
+                "source_id": "HID",
+                "target_id": "KUG",
+                "strength": 1710
+            },
+            {
+                "source_id": "HID",
+                "target_id": "MYI",
+                "strength": 883
+            },
+            {
+                "source_id": "HID",
+                "target_id": "NLF",
+                "strength": 480
+            },
+            {
+                "source_id": "HID",
+                "target_id": "OKR",
+                "strength": 543
+            },
+            {
+                "source_id": "HID",
+                "target_id": "SBR",
+                "strength": 770
+            },
+            {
+                "source_id": "HID",
+                "target_id": "SYU",
+                "strength": 2026
+            },
+            {
+                "source_id": "HID",
+                "target_id": "TIS",
+                "strength": 115
+            },
+            {
+                "source_id": "HID",
+                "target_id": "UBB",
+                "strength": 486
+            },
+            {
+                "source_id": "HID",
+                "target_id": "WEI",
+                "strength": 72
+            },
+            {
+                "source_id": "HID",
+                "target_id": "XMY",
+                "strength": 680
+            },
+            {
+                "source_id": "HTI",
+                "target_id": "MEL",
+                "strength": 3050
+            },
+            {
+                "source_id": "HTI",
+                "target_id": "SYD",
+                "strength": 17296
+            },
+            {
+                "source_id": "HVB",
+                "target_id": "MBH",
+                "strength": 3960
+            },
+            {
+                "source_id": "HVB",
+                "target_id": "MCY",
+                "strength": 576
+            },
+            {
+                "source_id": "ISA",
+                "target_id": "JCK",
+                "strength": 304
+            },
+            {
+                "source_id": "ISA",
+                "target_id": "TSV",
+                "strength": 2690
+            },
+            {
+                "source_id": "JCK",
+                "target_id": "RCM",
+                "strength": 494
+            },
+            {
+                "source_id": "KAX",
+                "target_id": "PER",
+                "strength": 190
+            },
+            {
+                "source_id": "KGI",
+                "target_id": "PER",
+                "strength": 21034
+            },
+            {
+                "source_id": "KNS",
+                "target_id": "MEL",
+                "strength": 1314
+            },
+            {
+                "source_id": "KTA",
+                "target_id": "PER",
+                "strength": 16488
+            },
+            {
+                "source_id": "KTA",
+                "target_id": "PHE",
+                "strength": 746
+            },
+            {
+                "source_id": "KTR",
+                "target_id": "TCA",
+                "strength": 874
+            },
+            {
+                "source_id": "KUG",
+                "target_id": "UBB",
+                "strength": 414
+            },
+            {
+                "source_id": "LDH",
+                "target_id": "SYD",
+                "strength": 1512
+            },
+            {
+                "source_id": "LEA",
+                "target_id": "MJK",
+                "strength": 450
+            },
+            {
+                "source_id": "LEA",
+                "target_id": "PER",
+                "strength": 2654
+            },
+            {
+                "source_id": "LER",
+                "target_id": "LNO",
+                "strength": 700
+            },
+            {
+                "source_id": "LER",
+                "target_id": "PER",
+                "strength": 800
+            },
+            {
+                "source_id": "LHG",
+                "target_id": "WGE",
+                "strength": 432
+            },
+            {
+                "source_id": "LNO",
+                "target_id": "LVO",
+                "strength": 100
+            },
+            {
+                "source_id": "LNO",
+                "target_id": "PER",
+                "strength": 1100
+            },
+            {
+                "source_id": "LRE",
+                "target_id": "WIN",
+                "strength": 380
+            },
+            {
+                "source_id": "LST",
+                "target_id": "MEL",
+                "strength": 46170
+            },
+            {
+                "source_id": "LST",
+                "target_id": "SYD",
+                "strength": 7254
+            },
+            {
+                "source_id": "LSY",
+                "target_id": "SYD",
+                "strength": 4716
+            },
+            {
+                "source_id": "LVO",
+                "target_id": "PER",
+                "strength": 100
+            },
+            {
+                "source_id": "MCY",
+                "target_id": "MEL",
+                "strength": 12150
+            },
+            {
+                "source_id": "MCY",
+                "target_id": "SYD",
+                "strength": 23180
+            },
+            {
+                "source_id": "MEL",
+                "target_id": "MGB",
+                "strength": 4408
+            },
+            {
+                "source_id": "MEL",
+                "target_id": "MHU",
+                "strength": 936
+            },
+            {
+                "source_id": "MEL",
+                "target_id": "MIM",
+                "strength": 988
+            },
+            {
+                "source_id": "MEL",
+                "target_id": "MQL",
+                "strength": 16704
+            },
+            {
+                "source_id": "MEL",
+                "target_id": "NTL",
+                "strength": 5256
+            },
+            {
+                "source_id": "MEL",
+                "target_id": "OOL",
+                "strength": 64960
+            },
+            {
+                "source_id": "MEL",
+                "target_id": "PER",
+                "strength": 102867
+            },
+            {
+                "source_id": "MEL",
+                "target_id": "PTJ",
+                "strength": 1976
+            },
+            {
+                "source_id": "MEL",
+                "target_id": "SYD",
+                "strength": 623900
+            },
+            {
+                "source_id": "MEL",
+                "target_id": "WGA",
+                "strength": 874
+            },
+            {
+                "source_id": "MGB",
+                "target_id": "PTJ",
+                "strength": 1976
+            },
+            {
+                "source_id": "MGT",
+                "target_id": "MNG",
+                "strength": 648
+            },
+            {
+                "source_id": "MGT",
+                "target_id": "RAM",
+                "strength": 456
+            },
+            {
+                "source_id": "MHU",
+                "target_id": "SYD",
+                "strength": 2304
+            },
+            {
+                "source_id": "MIM",
+                "target_id": "MYA",
+                "strength": 2232
+            },
+            {
+                "source_id": "MIM",
+                "target_id": "SYD",
+                "strength": 1656
+            },
+            {
+                "source_id": "MJK",
+                "target_id": "PER",
+                "strength": 800
+            },
+            {
+                "source_id": "MKR",
+                "target_id": "PER",
+                "strength": 152
+            },
+            {
+                "source_id": "MKR",
+                "target_id": "WUN",
+                "strength": 152
+            },
+            {
+                "source_id": "MKY",
+                "target_id": "ROK",
+                "strength": 5836
+            },
+            {
+                "source_id": "MKY",
+                "target_id": "TSV",
+                "strength": 6768
+            },
+            {
+                "source_id": "MMG",
+                "target_id": "PER",
+                "strength": 576
+            },
+            {
+                "source_id": "MNG",
+                "target_id": "RAM",
+                "strength": 256
+            },
+            {
+                "source_id": "MRZ",
+                "target_id": "NAA",
+                "strength": 2088
+            },
+            {
+                "source_id": "MRZ",
+                "target_id": "SYD",
+                "strength": 2088
+            },
+            {
+                "source_id": "MYA",
+                "target_id": "SYD",
+                "strength": 2232
+            },
+            {
+                "source_id": "MYI",
+                "target_id": "NLF",
+                "strength": 883
+            },
+            {
+                "source_id": "NAA",
+                "target_id": "SYD",
+                "strength": 2088
+            },
+            {
+                "source_id": "NLF",
+                "target_id": "OKR",
+                "strength": 403
+            },
+            {
+                "source_id": "NRA",
+                "target_id": "SYD",
+                "strength": 2916
+            },
+            {
+                "source_id": "NTL",
+                "target_id": "OOL",
+                "strength": 3148
+            },
+            {
+                "source_id": "NTL",
+                "target_id": "OOM",
+                "strength": 152
+            },
+            {
+                "source_id": "NTL",
+                "target_id": "SYD",
+                "strength": 14138
+            },
+            {
+                "source_id": "NTL",
+                "target_id": "TRO",
+                "strength": 361
+            },
+            {
+                "source_id": "NTN",
+                "target_id": "ONG",
+                "strength": 760
+            },
+            {
+                "source_id": "OAG",
+                "target_id": "SYD",
+                "strength": 6984
+            },
+            {
+                "source_id": "OKR",
+                "target_id": "SYU",
+                "strength": 36
+            },
+            {
+                "source_id": "OKR",
+                "target_id": "XMY",
+                "strength": 450
+            },
+            {
+                "source_id": "OKY",
+                "target_id": "SGO",
+                "strength": 342
+            },
+            {
+                "source_id": "OOL",
+                "target_id": "SYD",
+                "strength": 99218
+            },
+            {
+                "source_id": "OOM",
+                "target_id": "SYD",
+                "strength": 4788
+            },
+            {
+                "source_id": "PBO",
+                "target_id": "PER",
+                "strength": 6080
+            },
+            {
+                "source_id": "PBO",
+                "target_id": "ZNE",
+                "strength": 1762
+            },
+            {
+                "source_id": "PER",
+                "target_id": "PHE",
+                "strength": 10004
+            },
+            {
+                "source_id": "PER",
+                "target_id": "SYD",
+                "strength": 116475
+            },
+            {
+                "source_id": "PER",
+                "target_id": "WUN",
+                "strength": 152
+            },
+            {
+                "source_id": "PER",
+                "target_id": "ZNE",
+                "strength": 6236
+            },
+            {
+                "source_id": "PPP",
+                "target_id": "SYD",
+                "strength": 3024
+            },
+            {
+                "source_id": "PQQ",
+                "target_id": "SYD",
+                "strength": 9288
+            },
+            {
+                "source_id": "ROK",
+                "target_id": "SYD",
+                "strength": 3744
+            },
+            {
+                "source_id": "SBR",
+                "target_id": "UBB",
+                "strength": 450
+            },
+            {
+                "source_id": "SBR",
+                "target_id": "XMY",
+                "strength": 40
+            },
+            {
+                "source_id": "SYD",
+                "target_id": "TMW",
+                "strength": 9898
+            },
+            {
+                "source_id": "SYD",
+                "target_id": "TRO",
+                "strength": 3021
+            },
+            {
+                "source_id": "SYD",
+                "target_id": "TSV",
+                "strength": 8892
+            },
+            {
+                "source_id": "SYD",
+                "target_id": "WGA",
+                "strength": 16240
+            },
+            {
+                "source_id": "SYU",
+                "target_id": "XMY",
+                "strength": 1314
+            },
+            {
+                "source_id": "TSV",
+                "target_id": "WIN",
+                "strength": 380
+            },
+            {
+                "source_id": "ULP",
+                "target_id": "WNR",
+                "strength": 342
+            }
+        ]
+    }
+}

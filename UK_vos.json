@@ -1,0 +1,1527 @@
+{
+    "config": {
+        "terminology": {
+            "item": "item_name",
+            "items": "",
+            "link": "link_name",
+            "links": "",
+            "link_strength": "link strength name",
+            "total_link_strength": ""
+        },
+        "templates": {
+            "item_description": "<div class='description_heading'>item_name</div><div class='description_label'>{label}</div><div class='description_text'>id: {id}, label: {label}</div>",
+            "link_description": "<div class='description_heading'>link_name</div>"
+        }
+    },
+    "network": {
+        "items": [
+            {
+                "id": "ABZ",
+                "label": null,
+                "x": -446.3989562988281,
+                "y": -114.1633529663086,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 140
+                }
+            },
+            {
+                "id": "ACI",
+                "label": null,
+                "x": 581.7064208984375,
+                "y": 1026.3585205078125,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 35
+                }
+            },
+            {
+                "id": "BBP",
+                "label": null,
+                "x": -665.2197265625,
+                "y": -1476.2364501953125,
+                "cluster": 12,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "BEB",
+                "label": null,
+                "x": 1546.97509765625,
+                "y": 249.25277709960938,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 27.5
+                }
+            },
+            {
+                "id": "BFS",
+                "label": null,
+                "x": 708.9747924804688,
+                "y": 325.05126953125,
+                "cluster": 6,
+                "scores": {
+                    "viz_size": 110
+                }
+            },
+            {
+                "id": "BHD",
+                "label": null,
+                "x": -294.57562255859375,
+                "y": 288.51495361328125,
+                "cluster": 9,
+                "scores": {
+                    "viz_size": 125
+                }
+            },
+            {
+                "id": "BHX",
+                "label": null,
+                "x": 623.2091674804688,
+                "y": -551.5353393554688,
+                "cluster": 9,
+                "scores": {
+                    "viz_size": 83.75
+                }
+            },
+            {
+                "id": "BLK",
+                "label": null,
+                "x": 1014.0755004882812,
+                "y": -375.5240173339844,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 35
+                }
+            },
+            {
+                "id": "BOH",
+                "label": null,
+                "x": 72.98709106445312,
+                "y": 1614.665771484375,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "BQH",
+                "label": null,
+                "x": 56.614295959472656,
+                "y": -1613.2235107421875,
+                "cluster": 12,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "BRR",
+                "label": null,
+                "x": 565.1865234375,
+                "y": 1493.3519287109375,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 27.5
+                }
+            },
+            {
+                "id": "BRS",
+                "label": null,
+                "x": 1095.378662109375,
+                "y": 35.34407043457031,
+                "cluster": 10,
+                "scores": {
+                    "viz_size": 80
+                }
+            },
+            {
+                "id": "CAL",
+                "label": null,
+                "x": 246.7169189453125,
+                "y": 1227.9014892578125,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "CWL",
+                "label": null,
+                "x": -535.8013916015625,
+                "y": 1164.3306884765625,
+                "cluster": 7,
+                "scores": {
+                    "viz_size": 72.5
+                }
+            },
+            {
+                "id": "DND",
+                "label": null,
+                "x": 463.0726013183594,
+                "y": -1483.2708740234375,
+                "cluster": 7,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "EDI",
+                "label": null,
+                "x": -25.057863235473633,
+                "y": -73.14543151855469,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 170
+                }
+            },
+            {
+                "id": "EMA",
+                "label": null,
+                "x": 154.0961456298828,
+                "y": -769.6998901367188,
+                "cluster": 6,
+                "scores": {
+                    "viz_size": 65
+                }
+            },
+            {
+                "id": "EOI",
+                "label": null,
+                "x": -978.5136108398438,
+                "y": -1208.0467529296875,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 27.5
+                }
+            },
+            {
+                "id": "EXT",
+                "label": null,
+                "x": -760.5281982421875,
+                "y": -276.0852966308594,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 38.75
+                }
+            },
+            {
+                "id": "FIE",
+                "label": null,
+                "x": 1458.17919921875,
+                "y": 615.2000122070312,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 27.5
+                }
+            },
+            {
+                "id": "GCI",
+                "label": null,
+                "x": 86.21994018554688,
+                "y": 842.9247436523438,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 87.5
+                }
+            },
+            {
+                "id": "GLA",
+                "label": null,
+                "x": 457.47064208984375,
+                "y": 631.8087158203125,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 200
+                }
+            },
+            {
+                "id": "HUY",
+                "label": null,
+                "x": -1241.6212158203125,
+                "y": 1012.6459350585938,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "ILY",
+                "label": null,
+                "x": 950.2078857421875,
+                "y": 1292.0887451171875,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "INV",
+                "label": null,
+                "x": 486.0268859863281,
+                "y": -988.3903198242188,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 65
+                }
+            },
+            {
+                "id": "IOM",
+                "label": null,
+                "x": 58.850101470947266,
+                "y": 454.2460632324219,
+                "cluster": 6,
+                "scores": {
+                    "viz_size": 125
+                }
+            },
+            {
+                "id": "ISC",
+                "label": null,
+                "x": 1212.512939453125,
+                "y": -1103.2952880859375,
+                "cluster": 11,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "JER",
+                "label": null,
+                "x": 336.7756042480469,
+                "y": 141.14402770996094,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 162.5
+                }
+            },
+            {
+                "id": "KOI",
+                "label": null,
+                "x": -927.17333984375,
+                "y": -716.0952758789062,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 87.5
+                }
+            },
+            {
+                "id": "LBA",
+                "label": null,
+                "x": 1059.010009765625,
+                "y": 436.30706787109375,
+                "cluster": 9,
+                "scores": {
+                    "viz_size": 72.5
+                }
+            },
+            {
+                "id": "LCY",
+                "label": null,
+                "x": -649.4029541015625,
+                "y": 480.0331726074219,
+                "cluster": 7,
+                "scores": {
+                    "viz_size": 65
+                }
+            },
+            {
+                "id": "LDY",
+                "label": null,
+                "x": 859.3291625976562,
+                "y": -873.3949584960938,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 35
+                }
+            },
+            {
+                "id": "LGW",
+                "label": null,
+                "x": 314.4537048339844,
+                "y": -359.8750915527344,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 110
+                }
+            },
+            {
+                "id": "LHR",
+                "label": null,
+                "x": -839.9074096679688,
+                "y": 159.13095092773438,
+                "cluster": 8,
+                "scores": {
+                    "viz_size": 72.5
+                }
+            },
+            {
+                "id": "LPL",
+                "label": null,
+                "x": -438.4028625488281,
+                "y": 1552.127197265625,
+                "cluster": 6,
+                "scores": {
+                    "viz_size": 27.5
+                }
+            },
+            {
+                "id": "LSI",
+                "label": null,
+                "x": 134.17361450195312,
+                "y": -1194.01171875,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 42.5
+                }
+            },
+            {
+                "id": "LTN",
+                "label": null,
+                "x": -337.63763427734375,
+                "y": 802.6797485351562,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 65
+                }
+            },
+            {
+                "id": "LWK",
+                "label": null,
+                "x": 1253.4501953125,
+                "y": 981.4268188476562,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "MAN",
+                "label": null,
+                "x": -150.78175354003906,
+                "y": -468.0204162597656,
+                "cluster": 8,
+                "scores": {
+                    "viz_size": 132.5
+                }
+            },
+            {
+                "id": "MME",
+                "label": null,
+                "x": -215.152587890625,
+                "y": -1014.6774291992188,
+                "cluster": 8,
+                "scores": {
+                    "viz_size": 35
+                }
+            },
+            {
+                "id": "MSE",
+                "label": null,
+                "x": -1270.851318359375,
+                "y": -952.3568115234375,
+                "cluster": 13,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "NCL",
+                "label": null,
+                "x": -447.31597900390625,
+                "y": -601.5254516601562,
+                "cluster": 14,
+                "scores": {
+                    "viz_size": 95
+                }
+            },
+            {
+                "id": "NDY",
+                "label": null,
+                "x": -1217.7529296875,
+                "y": 144.66659545898438,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 35
+                }
+            },
+            {
+                "id": "NQY",
+                "label": null,
+                "x": 899.8612670898438,
+                "y": 785.2047119140625,
+                "cluster": 10,
+                "scores": {
+                    "viz_size": 35
+                }
+            },
+            {
+                "id": "NRL",
+                "label": null,
+                "x": -1453.44482421875,
+                "y": 599.3703002929688,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 35
+                }
+            },
+            {
+                "id": "NWI",
+                "label": null,
+                "x": -1544.7548828125,
+                "y": -212.35491943359375,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 35
+                }
+            },
+            {
+                "id": "PIK",
+                "label": null,
+                "x": -143.10284423828125,
+                "y": 1257.867431640625,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 42.5
+                }
+            },
+            {
+                "id": "PLH",
+                "label": null,
+                "x": 1248.6075439453125,
+                "y": -699.0670776367188,
+                "cluster": 10,
+                "scores": {
+                    "viz_size": 42.5
+                }
+            },
+            {
+                "id": "PPW",
+                "label": null,
+                "x": -1464.559814453125,
+                "y": -611.2688598632812,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 38.75
+                }
+            },
+            {
+                "id": "PZE",
+                "label": null,
+                "x": 842.8216552734375,
+                "y": -1355.183837890625,
+                "cluster": 11,
+                "scores": {
+                    "viz_size": 27.5
+                }
+            },
+            {
+                "id": "SEN",
+                "label": null,
+                "x": -1609.5113525390625,
+                "y": 212.34234619140625,
+                "cluster": 13,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "SOU",
+                "label": null,
+                "x": -768.7134399414062,
+                "y": 853.3060913085938,
+                "cluster": 4,
+                "scores": {
+                    "viz_size": 80
+                }
+            },
+            {
+                "id": "SOY",
+                "label": null,
+                "x": -658.1348876953125,
+                "y": -1031.28125,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 35
+                }
+            },
+            {
+                "id": "STN",
+                "label": null,
+                "x": 700.2494506835938,
+                "y": -102.14645385742188,
+                "cluster": 5,
+                "scores": {
+                    "viz_size": 95
+                }
+            },
+            {
+                "id": "SWS",
+                "label": null,
+                "x": -918.4032592773438,
+                "y": 1313.2227783203125,
+                "cluster": 7,
+                "scores": {
+                    "viz_size": 27.5
+                }
+            },
+            {
+                "id": "SYY",
+                "label": null,
+                "x": 1485.26513671875,
+                "y": -125.297607421875,
+                "cluster": 3,
+                "scores": {
+                    "viz_size": 35
+                }
+            },
+            {
+                "id": "TRE",
+                "label": null,
+                "x": -1074.9384765625,
+                "y": 589.0626831054688,
+                "cluster": 2,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "TSO",
+                "label": null,
+                "x": 1559.0318603515625,
+                "y": -498.2662353515625,
+                "cluster": 11,
+                "scores": {
+                    "viz_size": 20
+                }
+            },
+            {
+                "id": "WIC",
+                "label": null,
+                "x": -1181.5927734375,
+                "y": -309.6360778808594,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 35
+                }
+            },
+            {
+                "id": "WRY",
+                "label": null,
+                "x": -294.72149658203125,
+                "y": -1457.72216796875,
+                "cluster": 1,
+                "scores": {
+                    "viz_size": 31.25
+                }
+            }
+        ],
+        "links": [
+            {
+                "source_id": "ABZ",
+                "target_id": "BFS",
+                "strength": 874
+            },
+            {
+                "source_id": "ABZ",
+                "target_id": "BHX",
+                "strength": 7938
+            },
+            {
+                "source_id": "ABZ",
+                "target_id": "EMA",
+                "strength": 2774
+            },
+            {
+                "source_id": "ABZ",
+                "target_id": "GLA",
+                "strength": 3564
+            },
+            {
+                "source_id": "ABZ",
+                "target_id": "HUY",
+                "strength": 4218
+            },
+            {
+                "source_id": "ABZ",
+                "target_id": "KOI",
+                "strength": 6052
+            },
+            {
+                "source_id": "ABZ",
+                "target_id": "LBA",
+                "strength": 1900
+            },
+            {
+                "source_id": "ABZ",
+                "target_id": "LGW",
+                "strength": 26448
+            },
+            {
+                "source_id": "ABZ",
+                "target_id": "LHR",
+                "strength": 56032
+            },
+            {
+                "source_id": "ABZ",
+                "target_id": "LSI",
+                "strength": 12104
+            },
+            {
+                "source_id": "ABZ",
+                "target_id": "LTN",
+                "strength": 13176
+            },
+            {
+                "source_id": "ABZ",
+                "target_id": "MAN",
+                "strength": 16342
+            },
+            {
+                "source_id": "ABZ",
+                "target_id": "MME",
+                "strength": 3496
+            },
+            {
+                "source_id": "ABZ",
+                "target_id": "NCL",
+                "strength": 6600
+            },
+            {
+                "source_id": "ABZ",
+                "target_id": "NWI",
+                "strength": 14504
+            },
+            {
+                "source_id": "ABZ",
+                "target_id": "STN",
+                "strength": 1260
+            },
+            {
+                "source_id": "ABZ",
+                "target_id": "WIC",
+                "strength": 1748
+            },
+            {
+                "source_id": "ACI",
+                "target_id": "GCI",
+                "strength": 4800
+            },
+            {
+                "source_id": "ACI",
+                "target_id": "JER",
+                "strength": 1920
+            },
+            {
+                "source_id": "ACI",
+                "target_id": "SOU",
+                "strength": 3840
+            },
+            {
+                "source_id": "BBP",
+                "target_id": "BQH",
+                "strength": 2480
+            },
+            {
+                "source_id": "BEB",
+                "target_id": "BRR",
+                "strength": 874
+            },
+            {
+                "source_id": "BEB",
+                "target_id": "GLA",
+                "strength": 3564
+            },
+            {
+                "source_id": "BFS",
+                "target_id": "BHX",
+                "strength": 19440
+            },
+            {
+                "source_id": "BFS",
+                "target_id": "BRS",
+                "strength": 20740
+            },
+            {
+                "source_id": "BFS",
+                "target_id": "CWL",
+                "strength": 8122
+            },
+            {
+                "source_id": "BFS",
+                "target_id": "EDI",
+                "strength": 22692
+            },
+            {
+                "source_id": "BFS",
+                "target_id": "EMA",
+                "strength": 18598
+            },
+            {
+                "source_id": "BFS",
+                "target_id": "GLA",
+                "strength": 29280
+            },
+            {
+                "source_id": "BFS",
+                "target_id": "LGW",
+                "strength": 23212
+            },
+            {
+                "source_id": "BFS",
+                "target_id": "LPL",
+                "strength": 50020
+            },
+            {
+                "source_id": "BFS",
+                "target_id": "LTN",
+                "strength": 34294
+            },
+            {
+                "source_id": "BFS",
+                "target_id": "MAN",
+                "strength": 23976
+            },
+            {
+                "source_id": "BFS",
+                "target_id": "NCL",
+                "strength": 17006
+            },
+            {
+                "source_id": "BFS",
+                "target_id": "STN",
+                "strength": 35868
+            },
+            {
+                "source_id": "BHD",
+                "target_id": "BHX",
+                "strength": 39200
+            },
+            {
+                "source_id": "BHD",
+                "target_id": "BLK",
+                "strength": 3454
+            },
+            {
+                "source_id": "BHD",
+                "target_id": "BRS",
+                "strength": 7984
+            },
+            {
+                "source_id": "BHD",
+                "target_id": "CWL",
+                "strength": 4600
+            },
+            {
+                "source_id": "BHD",
+                "target_id": "EDI",
+                "strength": 10032
+            },
+            {
+                "source_id": "BHD",
+                "target_id": "EXT",
+                "strength": 296
+            },
+            {
+                "source_id": "BHD",
+                "target_id": "GLA",
+                "strength": 10692
+            },
+            {
+                "source_id": "BHD",
+                "target_id": "IOM",
+                "strength": 12890
+            },
+            {
+                "source_id": "BHD",
+                "target_id": "JER",
+                "strength": 2784
+            },
+            {
+                "source_id": "BHD",
+                "target_id": "LBA",
+                "strength": 17223
+            },
+            {
+                "source_id": "BHD",
+                "target_id": "LGW",
+                "strength": 28802
+            },
+            {
+                "source_id": "BHD",
+                "target_id": "LHR",
+                "strength": 84514
+            },
+            {
+                "source_id": "BHD",
+                "target_id": "MAN",
+                "strength": 25986
+            },
+            {
+                "source_id": "BHD",
+                "target_id": "NCL",
+                "strength": 12567
+            },
+            {
+                "source_id": "BHD",
+                "target_id": "SOU",
+                "strength": 10204
+            },
+            {
+                "source_id": "BHX",
+                "target_id": "EDI",
+                "strength": 68173
+            },
+            {
+                "source_id": "BHX",
+                "target_id": "EXT",
+                "strength": 1050
+            },
+            {
+                "source_id": "BHX",
+                "target_id": "GCI",
+                "strength": 10456
+            },
+            {
+                "source_id": "BHX",
+                "target_id": "GLA",
+                "strength": 69715
+            },
+            {
+                "source_id": "BHX",
+                "target_id": "IOM",
+                "strength": 12650
+            },
+            {
+                "source_id": "BHX",
+                "target_id": "JER",
+                "strength": 19383
+            },
+            {
+                "source_id": "BHX",
+                "target_id": "NCL",
+                "strength": 5568
+            },
+            {
+                "source_id": "BLK",
+                "target_id": "IOM",
+                "strength": 2232
+            },
+            {
+                "source_id": "BLK",
+                "target_id": "STN",
+                "strength": 10540
+            },
+            {
+                "source_id": "BOH",
+                "target_id": "PIK",
+                "strength": 11718
+            },
+            {
+                "source_id": "BRR",
+                "target_id": "GLA",
+                "strength": 1406
+            },
+            {
+                "source_id": "BRS",
+                "target_id": "EDI",
+                "strength": 32994
+            },
+            {
+                "source_id": "BRS",
+                "target_id": "GCI",
+                "strength": 2112
+            },
+            {
+                "source_id": "BRS",
+                "target_id": "GLA",
+                "strength": 32994
+            },
+            {
+                "source_id": "BRS",
+                "target_id": "IOM",
+                "strength": 3224
+            },
+            {
+                "source_id": "BRS",
+                "target_id": "JER",
+                "strength": 3438
+            },
+            {
+                "source_id": "BRS",
+                "target_id": "NCL",
+                "strength": 7700
+            },
+            {
+                "source_id": "BRS",
+                "target_id": "PLH",
+                "strength": 2700
+            },
+            {
+                "source_id": "CAL",
+                "target_id": "GLA",
+                "strength": 1778
+            },
+            {
+                "source_id": "CWL",
+                "target_id": "EDI",
+                "strength": 15196
+            },
+            {
+                "source_id": "CWL",
+                "target_id": "GLA",
+                "strength": 13561
+            },
+            {
+                "source_id": "CWL",
+                "target_id": "JER",
+                "strength": 9226
+            },
+            {
+                "source_id": "CWL",
+                "target_id": "LCY",
+                "strength": 7084
+            },
+            {
+                "source_id": "CWL",
+                "target_id": "PIK",
+                "strength": 2096
+            },
+            {
+                "source_id": "CWL",
+                "target_id": "SWS",
+                "strength": 7084
+            },
+            {
+                "source_id": "DND",
+                "target_id": "LCY",
+                "strength": 6572
+            },
+            {
+                "source_id": "EDI",
+                "target_id": "EMA",
+                "strength": 35656
+            },
+            {
+                "source_id": "EDI",
+                "target_id": "INV",
+                "strength": 3672
+            },
+            {
+                "source_id": "EDI",
+                "target_id": "IOM",
+                "strength": 2052
+            },
+            {
+                "source_id": "EDI",
+                "target_id": "JER",
+                "strength": 4502
+            },
+            {
+                "source_id": "EDI",
+                "target_id": "LBA",
+                "strength": 7154
+            },
+            {
+                "source_id": "EDI",
+                "target_id": "LCY",
+                "strength": 13826
+            },
+            {
+                "source_id": "EDI",
+                "target_id": "LGW",
+                "strength": 71764
+            },
+            {
+                "source_id": "EDI",
+                "target_id": "LHR",
+                "strength": 171189
+            },
+            {
+                "source_id": "EDI",
+                "target_id": "LSI",
+                "strength": 2074
+            },
+            {
+                "source_id": "EDI",
+                "target_id": "LTN",
+                "strength": 47092
+            },
+            {
+                "source_id": "EDI",
+                "target_id": "MAN",
+                "strength": 27406
+            },
+            {
+                "source_id": "EDI",
+                "target_id": "NWI",
+                "strength": 4234
+            },
+            {
+                "source_id": "EDI",
+                "target_id": "SOU",
+                "strength": 10192
+            },
+            {
+                "source_id": "EDI",
+                "target_id": "STN",
+                "strength": 47092
+            },
+            {
+                "source_id": "EDI",
+                "target_id": "SYY",
+                "strength": 3582
+            },
+            {
+                "source_id": "EDI",
+                "target_id": "WIC",
+                "strength": 1836
+            },
+            {
+                "source_id": "EMA",
+                "target_id": "GCI",
+                "strength": 2310
+            },
+            {
+                "source_id": "EMA",
+                "target_id": "GLA",
+                "strength": 30344
+            },
+            {
+                "source_id": "EMA",
+                "target_id": "IOM",
+                "strength": 1026
+            },
+            {
+                "source_id": "EMA",
+                "target_id": "JER",
+                "strength": 8122
+            },
+            {
+                "source_id": "EOI",
+                "target_id": "KOI",
+                "strength": 80
+            },
+            {
+                "source_id": "EOI",
+                "target_id": "PPW",
+                "strength": 80
+            },
+            {
+                "source_id": "EXT",
+                "target_id": "GCI",
+                "strength": 4415
+            },
+            {
+                "source_id": "EXT",
+                "target_id": "JER",
+                "strength": 6580
+            },
+            {
+                "source_id": "FIE",
+                "target_id": "LSI",
+                "strength": 64
+            },
+            {
+                "source_id": "FIE",
+                "target_id": "LWK",
+                "strength": 480
+            },
+            {
+                "source_id": "GCI",
+                "target_id": "JER",
+                "strength": 29113
+            },
+            {
+                "source_id": "GCI",
+                "target_id": "LGW",
+                "strength": 38408
+            },
+            {
+                "source_id": "GCI",
+                "target_id": "MAN",
+                "strength": 7374
+            },
+            {
+                "source_id": "GCI",
+                "target_id": "SOU",
+                "strength": 39377
+            },
+            {
+                "source_id": "GCI",
+                "target_id": "STN",
+                "strength": 6044
+            },
+            {
+                "source_id": "GLA",
+                "target_id": "ILY",
+                "strength": 3400
+            },
+            {
+                "source_id": "GLA",
+                "target_id": "INV",
+                "strength": 4828
+            },
+            {
+                "source_id": "GLA",
+                "target_id": "IOM",
+                "strength": 4092
+            },
+            {
+                "source_id": "GLA",
+                "target_id": "JER",
+                "strength": 3522
+            },
+            {
+                "source_id": "GLA",
+                "target_id": "LBA",
+                "strength": 7154
+            },
+            {
+                "source_id": "GLA",
+                "target_id": "LCY",
+                "strength": 16060
+            },
+            {
+                "source_id": "GLA",
+                "target_id": "LDY",
+                "strength": 2108
+            },
+            {
+                "source_id": "GLA",
+                "target_id": "LGW",
+                "strength": 38760
+            },
+            {
+                "source_id": "GLA",
+                "target_id": "LHR",
+                "strength": 158769
+            },
+            {
+                "source_id": "GLA",
+                "target_id": "LTN",
+                "strength": 46116
+            },
+            {
+                "source_id": "GLA",
+                "target_id": "MAN",
+                "strength": 27560
+            },
+            {
+                "source_id": "GLA",
+                "target_id": "SOU",
+                "strength": 10192
+            },
+            {
+                "source_id": "GLA",
+                "target_id": "STN",
+                "strength": 34892
+            },
+            {
+                "source_id": "GLA",
+                "target_id": "SYY",
+                "strength": 7128
+            },
+            {
+                "source_id": "GLA",
+                "target_id": "TRE",
+                "strength": 1026
+            },
+            {
+                "source_id": "INV",
+                "target_id": "KOI",
+                "strength": 4216
+            },
+            {
+                "source_id": "INV",
+                "target_id": "LGW",
+                "strength": 25234
+            },
+            {
+                "source_id": "INV",
+                "target_id": "LTN",
+                "strength": 9516
+            },
+            {
+                "source_id": "INV",
+                "target_id": "MAN",
+                "strength": 2622
+            },
+            {
+                "source_id": "INV",
+                "target_id": "SYY",
+                "strength": 3672
+            },
+            {
+                "source_id": "IOM",
+                "target_id": "LBA",
+                "strength": 2440
+            },
+            {
+                "source_id": "IOM",
+                "target_id": "LCY",
+                "strength": 8683
+            },
+            {
+                "source_id": "IOM",
+                "target_id": "LGW",
+                "strength": 16150
+            },
+            {
+                "source_id": "IOM",
+                "target_id": "LPL",
+                "strength": 26768
+            },
+            {
+                "source_id": "IOM",
+                "target_id": "LTN",
+                "strength": 5890
+            },
+            {
+                "source_id": "IOM",
+                "target_id": "MAN",
+                "strength": 13660
+            },
+            {
+                "source_id": "IOM",
+                "target_id": "NCL",
+                "strength": 2916
+            },
+            {
+                "source_id": "IOM",
+                "target_id": "PIK",
+                "strength": 3100
+            },
+            {
+                "source_id": "ISC",
+                "target_id": "PZE",
+                "strength": 15132
+            },
+            {
+                "source_id": "JER",
+                "target_id": "LBA",
+                "strength": 6174
+            },
+            {
+                "source_id": "JER",
+                "target_id": "LCY",
+                "strength": 6845
+            },
+            {
+                "source_id": "JER",
+                "target_id": "LGW",
+                "strength": 77919
+            },
+            {
+                "source_id": "JER",
+                "target_id": "LTN",
+                "strength": 4530
+            },
+            {
+                "source_id": "JER",
+                "target_id": "MAN",
+                "strength": 9540
+            },
+            {
+                "source_id": "JER",
+                "target_id": "MME",
+                "strength": 1176
+            },
+            {
+                "source_id": "JER",
+                "target_id": "NCL",
+                "strength": 1232
+            },
+            {
+                "source_id": "JER",
+                "target_id": "PLH",
+                "strength": 736
+            },
+            {
+                "source_id": "JER",
+                "target_id": "SOU",
+                "strength": 35332
+            },
+            {
+                "source_id": "JER",
+                "target_id": "SWS",
+                "strength": 368
+            },
+            {
+                "source_id": "KOI",
+                "target_id": "LSI",
+                "strength": 2210
+            },
+            {
+                "source_id": "KOI",
+                "target_id": "NDY",
+                "strength": 432
+            },
+            {
+                "source_id": "KOI",
+                "target_id": "NRL",
+                "strength": 760
+            },
+            {
+                "source_id": "KOI",
+                "target_id": "PPW",
+                "strength": 536
+            },
+            {
+                "source_id": "KOI",
+                "target_id": "SOY",
+                "strength": 432
+            },
+            {
+                "source_id": "KOI",
+                "target_id": "WIC",
+                "strength": 1836
+            },
+            {
+                "source_id": "KOI",
+                "target_id": "WRY",
+                "strength": 432
+            },
+            {
+                "source_id": "LBA",
+                "target_id": "LHR",
+                "strength": 26390
+            },
+            {
+                "source_id": "LBA",
+                "target_id": "SOU",
+                "strength": 4234
+            },
+            {
+                "source_id": "LCY",
+                "target_id": "MAN",
+                "strength": 16100
+            },
+            {
+                "source_id": "LDY",
+                "target_id": "MAN",
+                "strength": 2108
+            },
+            {
+                "source_id": "LDY",
+                "target_id": "STN",
+                "strength": 13856
+            },
+            {
+                "source_id": "LGW",
+                "target_id": "MAN",
+                "strength": 51114
+            },
+            {
+                "source_id": "LGW",
+                "target_id": "NCL",
+                "strength": 27120
+            },
+            {
+                "source_id": "LGW",
+                "target_id": "NQY",
+                "strength": 7750
+            },
+            {
+                "source_id": "LGW",
+                "target_id": "PLH",
+                "strength": 4650
+            },
+            {
+                "source_id": "LHR",
+                "target_id": "MAN",
+                "strength": 154001
+            },
+            {
+                "source_id": "LHR",
+                "target_id": "MME",
+                "strength": 18020
+            },
+            {
+                "source_id": "LHR",
+                "target_id": "NCL",
+                "strength": 46312
+            },
+            {
+                "source_id": "MAN",
+                "target_id": "NWI",
+                "strength": 2622
+            },
+            {
+                "source_id": "MAN",
+                "target_id": "SOU",
+                "strength": 9508
+            },
+            {
+                "source_id": "MAN",
+                "target_id": "STN",
+                "strength": 4002
+            },
+            {
+                "source_id": "MSE",
+                "target_id": "SEN",
+                "strength": 476
+            },
+            {
+                "source_id": "NCL",
+                "target_id": "SOU",
+                "strength": 5034
+            },
+            {
+                "source_id": "NCL",
+                "target_id": "STN",
+                "strength": 28304
+            },
+            {
+                "source_id": "NDY",
+                "target_id": "NRL",
+                "strength": 144
+            },
+            {
+                "source_id": "NDY",
+                "target_id": "SOY",
+                "strength": 288
+            },
+            {
+                "source_id": "NQY",
+                "target_id": "PLH",
+                "strength": 7750
+            },
+            {
+                "source_id": "NQY",
+                "target_id": "STN",
+                "strength": 20150
+            },
+            {
+                "source_id": "NRL",
+                "target_id": "PPW",
+                "strength": 40
+            },
+            {
+                "source_id": "NRL",
+                "target_id": "SOY",
+                "strength": 64
+            },
+            {
+                "source_id": "PIK",
+                "target_id": "STN",
+                "strength": 70760
+            },
+            {
+                "source_id": "PPW",
+                "target_id": "WRY",
+                "strength": 352
+            },
+            {
+                "source_id": "PZE",
+                "target_id": "TSO",
+                "strength": 7644
+            },
+            {
+                "source_id": "SOY",
+                "target_id": "WRY",
+                "strength": 80
+            }
+        ]
+    }
+}
